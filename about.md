@@ -12,5 +12,5 @@ I love creating products which solve real people problems. I’m happy when I ca
 
 I’m always open to new challenges which make me learn new stuff, provide value to others and allow at least partially remote work. [Contact me](mailto:v.stratus@gmail.com) if you have ones.
 
-- My CV
+- My CV ([EN]({{ site.url }}/downloads/cv/CV_Viktor_Malyi.pdf)/[DE]({{ site.url }}/downloads/cv/Lebenslauf_Viktor_Malyi.pdf))
 - [My blog posts](/index.html)
