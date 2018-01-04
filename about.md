@@ -14,4 +14,3 @@ I’m always open to new challenges which make me learn new stuff, provide value
 
 - My CV
 - [My blog posts](/index.html)
-- See links to other resources below
