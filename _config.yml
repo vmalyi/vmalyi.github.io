@@ -18,8 +18,15 @@ email: v.stratus@gmail.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vmalyi
-github_username:  vmalyi
+
+twitter_url: https://twitter.com/victormalyy
+github_url: https://github.com/vmalyi
+stackoverflow_url: http://stackoverflow.com/users/1254211/viktor-malyi
+linkedin_url: https://de.linkedin.com/in/viktormalyi
+xing_url: https://www.xing.com/profile/Viktor_Malyi
+slideshare_url: http://de.slideshare.net/vstratus/
+
+address: Würzburg, Germany
 
 # Build settings
 markdown: kramdown
