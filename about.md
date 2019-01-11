@@ -10,7 +10,9 @@ I have 9 years experience in software development as a software developer and so
 
 I love creating products which solve real people problems. I’m happy when I can use machine learning to do this as well. [AutoWorkout](https://itunes.apple.com/US/app/id1314314336) is one of such products which utilizes neural networks and Apple’s Core ML to recognize fitness exercises and provide workout statistics for those who love sport.
 
+Another highlight is my [I Have Voice](https://ihavevoice.app/) app which allows people with amyotrophic lateral sclerosis (ALS) to communicate with the world.
+
 I’m always open to new challenges which make me learn new stuff, provide value to others and allow at least partially remote work. [Contact me](mailto:v.stratus@gmail.com) if you have ones.
 
-- My CV ([EN]({{ site.url }}/downloads/cv/CV_Viktor_Malyi.pdf)/[DE]({{ site.url }}/downloads/cv/Lebenslauf_Viktor_Malyi.pdf))
+- My [CV]({{ site.url }}/downloads/cv/CV_Viktor_Malyi.pdf)
 - [My blog posts](/index.html)
