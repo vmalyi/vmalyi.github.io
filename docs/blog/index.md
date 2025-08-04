@@ -1,0 +1,62 @@
+---
+date:
+  created: 2024-01-01
+description: Welcome to my blog where I share practical insights about AI implementation, team leadership, and building production AI systems.
+keywords: AI implementation, team leadership, production AI systems, machine learning, artificial intelligence, AI strategy, technical leadership, AI blog
+---
+
+# Blog
+
+Welcome to my blog where I share practical insights about AI implementation, team leadership, and building production AI systems.
+
+I focus on real-world experience over theoretical concepts, sharing lessons learned from 16 years in technology and 3+ years leading AI platform teams.
+
+## Latest Posts
+
+### 2024
+
+**[How to Build Prompt Engineering Expertise At Your Company](how-to-build-prompt-engineering-expertise.md)** - December 2, 2024  
+*AI, Prompt Engineering, Team Building*
+
+Learn practical strategies for developing prompt engineering capabilities within your organization without expensive external hires. Covers ideal candidate profiles, growth paths, and building sustainable AI expertise.
+
+### 2018
+
+**[AutoWorkout: How to Improve Motion Activity Classifier Predictions?](autoworkout-improve-prediction-accuracy.md)** - January 23, 2018  
+*Machine Learning, Motion Classification, Prediction Improvement*
+
+Exploring advanced techniques for improving machine learning model predictions in real-world fitness applications. Covers voting algorithms, outlier detection, and achieving production-ready accuracy from multiple classifier outputs.
+
+### 2017
+
+**[Run or Walk (Part 4): Using Keras Neural Network Classifier in iOS With Core ML](run-or-walk-part-4.md)** - November 14, 2017  
+*iOS, Core ML, Keras, Neural Networks*
+
+The final part of the series showing how to convert trained Keras models to Core ML format and integrate them into iOS applications for real-time motion activity detection.
+
+**[Run or Walk (Part 3): >99% Accuracy Neural Network Classifier for Detecting Motion Activity](run-or-walk-part-3.md)** - September 5, 2017  
+*Machine Learning, Neural Networks, Motion Classification*
+
+Designing and training neural network architectures that achieve over 99% accuracy in motion activity detection. Covers model architecture decisions, hyperparameter tuning, and validation techniques.
+
+**[Run or Walk (Part 2): Collecting Device Motion Data the Right Way](run-or-walk-part-2.md)** - August 14, 2017  
+*Machine Learning, iOS, Data Collection, Motion Sensors*
+
+Deep dive into proper data collection techniques for motion activity detection. Covers sensor selection, data frequency optimization, collection methodology, and avoiding common data quality pitfalls.
+
+**[Run or Walk (Part 1): Detecting Motion Activity Type With Machine Learning and Core ML](run-or-walk-part-1.md)** - August 5, 2017  
+*Machine Learning, iOS, Core ML, Deep Learning*
+
+Introduction to building an end-to-end motion activity detection system using machine learning and Apple's Core ML framework. Covers the problem space, approach, and project overview.
+
+---
+
+## About This Blog
+
+These articles represent practical experience building production AI systems, from data collection through deployment. Each post focuses on real implementation challenges and solutions rather than theoretical concepts.
+
+Topics include:
+- **Production AI Systems**: Real-world deployment and scaling challenges
+- **Team Leadership**: Building and managing AI engineering teams  
+- **Framework Selection**: Choosing the right tools for AI projects
+- **Practical Implementation**: Moving beyond theory to working solutions
