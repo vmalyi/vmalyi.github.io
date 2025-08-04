@@ -2,7 +2,7 @@ name: Deploy MkDocs to vmalyi.com
 
 on:
   push:
-    branches: [ main ]  # Deploy on push to main branch
+    branches: [ master ]  # Deploy on push to master branch
   workflow_dispatch:  # Allow manual deployment
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
