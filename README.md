@@ -78,6 +78,15 @@ mkdocs build
 - Automatic sitemap generation
 - RSS feed for content syndication
 
+## 📡 RSS Feeds
+
+The blog automatically generates RSS feeds for content syndication:
+
+- **RSS Feed**: [vmalyi.com/feed_rss_created.xml](https://vmalyi.com/feed_rss_created.xml)
+- **JSON Feed**: [vmalyi.com/feed_json_created.xml](https://vmalyi.com/feed_json_created.json)
+
+Feeds include all blog posts with full content, updated automatically on each deployment.
+
 ## 📊 Performance
 
 - Fast static site generation
