@@ -1,0 +1,43 @@
+site_name: Viktor Malyi - AI Implementation Expert
+site_url: https://vmalyi.github.io
+site_description: Practical AI implementation insights and real-world experience from 16 years in technology and 3+ years leading AI platform teams. Expert guidance on production AI systems, team leadership, and framework selection.
+site_author: Viktor Malyi
+
+theme:
+  name: shadcn
+
+plugins:
+  - search:
+      indexing: 'full'
+      lang: en
+      min_search_length: 2
+  - rss:
+      match_path: "blog/*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      categories:
+        - tags
+      feed_ttl: 1440
+      length: 1000
+      pretty_print: true
+      feed_description: "Practical AI implementation insights from Viktor Malyi"
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - Speaking: speaking/index.md
+  - About: about.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: false
