@@ -5,6 +5,8 @@ site_author: Viktor Malyi
 
 theme:
   name: shadcn
+  show_title: true
+  icon: null
 
 plugins:
   - search:
