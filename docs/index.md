@@ -1,28 +1,38 @@
 # Viktor Malyi - AI Implementation Expert
 
-Welcome to my blog where I share practical insights about AI implementation, team leadership, and building production AI systems.
-
-## About Me
-
-I'm Viktor Malyi, an AI implementation expert with 16 years of experience in technology and over 3 years leading AI platform teams. I focus on practical, anti-hype approaches to AI adoption and building systems that actually work in production.
+Real-world AI implementation experience from 16 years in tech and 3 years in AI leadership. I share practical frameworks and insights for building AI systems that actually deliver business value.
 
 ## What You'll Find Here
 
-- **Practical AI Implementation**: Real-world strategies for deploying AI systems
-- **Team Leadership**: Building and managing AI engineering teams
-- **Framework Selection**: Choosing the right tools for your AI projects
-- **Production Systems**: Lessons learned from running AI in production
+### Strategic AI Leadership Frameworks
+- Translating technical AI metrics into financial impact for executive reporting
+- Build vs. buy decision frameworks for AI tool selection  
+- OKR implementation strategies that drive measurable AI outcomes
+- Team building approaches that accelerate AI adoption
 
-## Latest Posts
+### Implementation Insights
+- Why phased AI implementation drives better ROI than "magic button" solutions
+- Vendor evaluation frameworks for navigating 20+ AI coding assistants
+- Talent strategy transformation for AI-era hiring and team development
+- Context engineering strategies that optimize costs and performance
 
-Check out my [blog](blog/index.md) for the latest posts on AI implementation and leadership.
+### Enterprise AI Challenges
+- Compliance and governance frameworks for production AI systems
+- Integration patterns for AI with existing enterprise infrastructure  
+- Risk management strategies for AI implementation and vendor selection
 
-## Speaking Engagements
+## Explore My Content
 
-I speak at conferences and events about practical AI implementation and team leadership. View my [speaking](speaking/index.md) topics and featured presentations.
+Ready to dive deeper into practical AI implementation strategies?
 
-## Connect
+**[Read My Blog](/blog/)** - Deep-dive articles on AI leadership frameworks and implementation insights
 
-- [YouTube](https://www.youtube.com/@TheTalkingAIHead)
-- [LinkedIn](https://de.linkedin.com/in/viktormalyi)
-- [Twitter](https://twitter.com/victormalyy)
+**[Watch My Videos](https://www.youtube.com/@TheTalkingAIHead)** - Practical AI guidance and real-world case studies
+
+## Follow My Work
+
+Stay updated with the latest insights on practical AI implementation:
+
+- **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi) - AI leadership insights and industry analysis
+- **YouTube**: [@TheTalkingAIHead](https://www.youtube.com/@TheTalkingAIHead) - Video content on AI implementation
+- **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
