@@ -1,8 +1,8 @@
 # About Viktor Malyi
 
-## Helping AI Leaders Avoid Expensive Mistakes
+## AI Implementation Experience from the Trenches
 
-I help CTOs, Chief AI Officers, and AI Directors navigate the treacherous landscape of enterprise AI implementation. With 16 years in technology leadership and 3+ years building AI platform teams, I've seen where the bodies are buried.
+With 16 years in technology leadership and 3+ years building AI platform teams, I've experienced the reality of enterprise AI implementation - both the successes and spectacular failures. I share practical insights from this journey.
 
 ## What You'll Find Here
 
@@ -21,17 +21,17 @@ I help CTOs, Chief AI Officers, and AI Directors navigate the treacherous landsc
 - Healthcare: HIPAA-compliant workflows that don't break functionality  
 - Manufacturing: AI integration with 20-year-old systems
 
-## Why I Write
+## Why I Share This
 
-Your board wants AI results. Your budget is under scrutiny. Your team is skeptical. One hallucination scandal could end your AI transformation (and possibly your role).
+I've witnessed AI projects where demos worked perfectly but production deployments failed catastrophically. I've seen AWS bills explode from $10K to $100K overnight. I've watched legal teams kill projects at the last minute.
 
-I've been in the trenches where demos fail in production, where AWS bills explode overnight, and where legal teams kill projects at the last minute. This content exists to help you navigate these realities without becoming another cautionary tale.
+These experiences shaped my understanding of what actually works (and doesn't work) in enterprise AI implementation.
 
-## My Approach: Paranoid but Practical
+## My Perspective: Practical Over Theoretical
 
-No hype. No "revolutionary transformation" promises. Just experience-based guidance for leaders who need AI to actually work in the real world.
+No hype. No "revolutionary transformation" promises. Just real-world experience from someone who has built AI systems that run in production, managed teams through AI adoption challenges, and learned from both successes and expensive mistakes.
 
-Whether it's preventing vendor lock-in disasters, building compliance-first architecture, or managing the organizational change that everyone underestimates, I focus on the unglamorous but critical work that determines success or failure.
+I focus on the practical, unglamorous work that actually determines whether AI projects succeed or join the graveyard of failed initiatives.
 
 ## Contact
 
