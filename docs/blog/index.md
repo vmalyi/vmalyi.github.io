@@ -49,14 +49,3 @@ Deep dive into proper data collection techniques for motion activity detection. 
 
 Introduction to building an end-to-end motion activity detection system using machine learning and Apple's Core ML framework. Covers the problem space, approach, and project overview.
 
----
-
-## About This Blog
-
-These articles represent practical experience building production AI systems, from data collection through deployment. Each post focuses on real implementation challenges and solutions rather than theoretical concepts.
-
-Topics include:
-- **Production AI Systems**: Real-world deployment and scaling challenges
-- **Team Leadership**: Building and managing AI engineering teams  
-- **Framework Selection**: Choosing the right tools for AI projects
-- **Practical Implementation**: Moving beyond theory to working solutions
