@@ -1,50 +1,51 @@
 # About Viktor Malyi
 
-## Real-World AI Implementation Experience from 16 Years in Tech and 3 Years in AI Leadership
+## Professional Background
 
-I've led AI platform teams and built production systems that actually deliver business value. My focus is on sharing practical frameworks and insights from real implementation experience in enterprise environments.
+With 16 years in technology and 3+ years in AI leadership, I've built my career on delivering practical solutions that work in production environments. Based in Heilbronn, Germany, I currently lead the AI Platform team at simpleclub, where I founded the team and established AI strategy for the organization.
 
-## What You'll Find Here
+## Career Journey
 
-### Strategic AI Leadership Frameworks
-- Translating technical AI metrics into financial impact for executive reporting
-- Build vs. buy decision frameworks for AI tool selection  
-- OKR implementation strategies that drive measurable AI outcomes
-- Team building approaches that accelerate AI adoption
+### AI Platform Leadership (2024-Present)
+**Team Leader AI Platform Team - simpleclub**
 
-### Implementation Insights
-- Why phased AI implementation drives better ROI than "magic button" solutions
-- Vendor evaluation frameworks for navigating 20+ AI coding assistants
-- Talent strategy transformation for AI-era hiring and team development
-- Context engineering strategies that optimize costs and performance
+Founded and led the AI Platform team from the ground up, establishing comprehensive AI strategy and R&D practices. Built 5 core AI-powered features serving both external users and internal teams. Designed GDPR-compliant AI platform architecture and drove AI adoption across the entire Tech/Engineering department through cross-functional collaboration.
 
-### Enterprise AI Challenges
-- Compliance and governance frameworks for production AI systems
-- Integration patterns for AI with existing enterprise infrastructure  
-- Risk management strategies for AI implementation and vendor selection
+### Technical Leadership Foundation (2022-2024)
+**Mobile Development Technical Lead - simpleclub**
 
-## My Approach
+Led Flutter mobile development team, defining technical direction and architecture decisions. Focused on team expansion, hiring management, and establishing code quality standards. Managed content production and distribution systems that formed the foundation for later AI initiatives.
 
-I focus on practical implementation over theoretical concepts. My content addresses the real challenges of moving AI from proof-of-concept to production systems that deliver business results.
+## Key Achievements
 
-Whether it's measuring AI performance, managing organizational change, or selecting the right tools for your specific context, I share frameworks and insights based on hands-on experience with enterprise AI initiatives.
+### Team Building & Leadership
+- **Founded AI Platform team** from scratch, establishing strategic direction
+- **Led teams of 10+ engineers** across mobile and AI initiatives
+- **Hired 6+ engineers** and mentored multiple developers throughout career
+- **Founded QA Dnipro Community** (2010-2012), demonstrating early leadership in tech community
 
-## Why This Matters
+### Technical Impact
+- **Increased test coverage from 0→52%** and reduced application crashes by 21%
+- **Built 5 production AI features** with GDPR compliance and enterprise-grade architecture
+- **Developed accessibility applications** (I Have Voice) and fitness AI solutions (AutoWorkout)
+- **Established MLOps practices** and AI platform architecture from concept to production
 
-AI implementation requires more than technical expertise - it demands understanding of business alignment, team dynamics, compliance requirements, and operational realities. My goal is to bridge the gap between AI capabilities and business outcomes through practical, experience-based guidance.
+### Innovation & Expertise
+- **16 years IT experience** spanning quality assurance, mobile development, and AI platforms
+- **Mobile expertise** since 2016, including iOS development and Flutter team leadership
+- **Conference speaking** and guest lectures, sharing practical implementation experience
+- **Cross-functional collaboration** across Engineering, Education, Product, and business teams
 
-## Explore My Content
+## Technical Expertise Evolution
 
-Ready to dive deeper into practical AI implementation strategies?
+**Current Focus**: LLMs, MLOps, AI Platforms, GDPR compliance  
+**Mobile Leadership**: Flutter, iOS (Swift, Objective-C), Android development  
+**Backend & AI**: Python, TensorFlow, Keras, CoreML  
+**Infrastructure**: Google Cloud, Firebase, CI/CD pipelines  
+**Quality & Security**: Automated testing, OWASP security audits
 
-**[Read My Blog](/blog/)** - Deep-dive articles on AI leadership frameworks and implementation insights
+## Why I Share This Experience
 
-**[Watch My Videos](https://www.youtube.com/@TheTalkingAIHead)** - Practical AI guidance and real-world case studies
+AI implementation requires more than technical knowledge—it demands understanding of team dynamics, business alignment, compliance requirements, and operational realities. My goal is to bridge the gap between AI capabilities and business outcomes through practical, hands-on experience.
 
-## Follow My Work
-
-Stay updated with the latest insights on practical AI implementation:
-
-- **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi) - AI leadership insights and industry analysis
-- **YouTube**: [@TheTalkingAIHead](https://www.youtube.com/@TheTalkingAIHead) - Video content on AI implementation
-- **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
+Having built systems that run in production, led teams through AI adoption, and established enterprise AI platforms, I focus on sharing what actually works rather than theoretical approaches.
