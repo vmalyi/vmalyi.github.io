@@ -1,37 +1,37 @@
 # About Viktor Malyi
 
-## AI Implementation Experience from the Trenches
+## Real-World AI Implementation Experience from 16 Years in Tech and 3 Years in AI Leadership
 
-With 16 years in technology leadership and 3+ years building AI platform teams, I've experienced the reality of enterprise AI implementation - both the successes and spectacular failures. I share practical insights from this journey.
+I've led AI platform teams and built production systems that actually deliver business value. My focus is on sharing practical frameworks and insights from real implementation experience in enterprise environments.
 
 ## What You'll Find Here
 
-**The Brutal Truth About AI Implementation**
-- Why 67% of AI projects fail and how to avoid joining them
-- Real case studies of $5M+ AI initiatives that went wrong (with actual numbers)
-- The hidden costs that kill AI ROI before you see it coming
+**Strategic AI Leadership Frameworks**
+- Translating technical AI metrics into financial impact for executive reporting
+- Build vs. buy decision frameworks for AI tool selection  
+- OKR implementation strategies that drive measurable AI outcomes
+- Team building approaches that accelerate AI adoption
 
-**Practical Leadership Frameworks** 
-- ROI measurement strategies that survive CFO scrutiny
-- Vendor evaluation frameworks for the 500+ AI tools flooding your inbox
-- Team building approaches that actually drive AI adoption (not resistance)
+**Implementation Insights** 
+- Why phased AI implementation drives better ROI than "magic button" solutions
+- Vendor evaluation frameworks for navigating 20+ AI coding assistants
+- Talent strategy transformation for AI-era hiring and team development
+- Context engineering strategies that optimize costs and performance
 
-**Industry-Specific Guidance**
-- Financial services: Building explainable AI for regulatory reporting
-- Healthcare: HIPAA-compliant workflows that don't break functionality  
-- Manufacturing: AI integration with 20-year-old systems
+**Industry-Specific Experience**
+- Financial services: Regulatory reporting requirements and explainable AI
+- Healthcare: HIPAA compliance considerations for AI workflows  
+- Manufacturing: AI integration with legacy systems and environments
 
-## Why I Share This
+## My Approach
 
-I've witnessed AI projects where demos worked perfectly but production deployments failed catastrophically. I've seen AWS bills explode from $10K to $100K overnight. I've watched legal teams kill projects at the last minute.
+I focus on practical implementation over theoretical concepts. My content addresses the real challenges of moving AI from proof-of-concept to production systems that deliver business results.
 
-These experiences shaped my understanding of what actually works (and doesn't work) in enterprise AI implementation.
+Whether it's measuring AI performance, managing organizational change, or selecting the right tools for your specific context, I share frameworks and insights based on hands-on experience with enterprise AI initiatives.
 
-## My Perspective: Practical Over Theoretical
+## Why This Matters
 
-No hype. No "revolutionary transformation" promises. Just real-world experience from someone who has built AI systems that run in production, managed teams through AI adoption challenges, and learned from both successes and expensive mistakes.
-
-I focus on the practical, unglamorous work that actually determines whether AI projects succeed or join the graveyard of failed initiatives.
+AI implementation requires more than technical expertise - it demands understanding of business alignment, team dynamics, compliance requirements, and operational realities. My goal is to bridge the gap between AI capabilities and business outcomes through practical, experience-based guidance.
 
 ## Contact
 
