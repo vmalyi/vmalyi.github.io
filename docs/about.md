@@ -6,19 +6,19 @@ I've led AI platform teams and built production systems that actually deliver bu
 
 ## What You'll Find Here
 
-**Strategic AI Leadership Frameworks**
+### Strategic AI Leadership Frameworks
 - Translating technical AI metrics into financial impact for executive reporting
 - Build vs. buy decision frameworks for AI tool selection  
 - OKR implementation strategies that drive measurable AI outcomes
 - Team building approaches that accelerate AI adoption
 
-**Implementation Insights** 
+### Implementation Insights
 - Why phased AI implementation drives better ROI than "magic button" solutions
 - Vendor evaluation frameworks for navigating 20+ AI coding assistants
 - Talent strategy transformation for AI-era hiring and team development
 - Context engineering strategies that optimize costs and performance
 
-**Enterprise AI Challenges**
+### Enterprise AI Challenges
 - Compliance and governance frameworks for production AI systems
 - Integration patterns for AI with existing enterprise infrastructure  
 - Risk management strategies for AI implementation and vendor selection
@@ -33,8 +33,18 @@ Whether it's measuring AI performance, managing organizational change, or select
 
 AI implementation requires more than technical expertise - it demands understanding of business alignment, team dynamics, compliance requirements, and operational realities. My goal is to bridge the gap between AI capabilities and business outcomes through practical, experience-based guidance.
 
-## Contact
+## Explore My Content
 
-- **YouTube**: [@TheTalkingAIHead](https://www.youtube.com/@TheTalkingAIHead)
-- **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi)
-- **Twitter**: [@victormalyy](https://twitter.com/victormalyy)
+Ready to dive deeper into practical AI implementation strategies?
+
+**[Read My Blog](/blog/)** - Deep-dive articles on AI leadership frameworks and implementation insights
+
+**[Watch My Videos](https://www.youtube.com/@TheTalkingAIHead)** - Practical AI guidance and real-world case studies
+
+## Follow My Work
+
+Stay updated with the latest insights on practical AI implementation:
+
+- **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi) - AI leadership insights and industry analysis
+- **YouTube**: [@TheTalkingAIHead](https://www.youtube.com/@TheTalkingAIHead) - Video content on AI implementation
+- **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
