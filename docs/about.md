@@ -2,39 +2,25 @@
 
 ## Professional Background
 
-I've built and scaled AI platforms from concept to production, serving 2M+ users while maintaining enterprise-grade GDPR compliance. Over 16 years in technology, I've established AI strategy for organizations, led cross-functional teams, and delivered AI systems that actually generate business value. Based in Heilbronn, Germany, I founded and built the AI Platform strategy at simpleclub from the ground up.
+With 16 years in technology and hands-on AI/ML experience since 2016, I currently lead AI platform development at simpleclub. I focus on building production AI systems that deliver practical business value while navigating enterprise compliance requirements.
 
 ## Career Journey
 
-### AI Platform Strategy & Execution (2024-Present)
-**Building AI-First Organization at Scale**
+### AI Platform Leadership (2024-Present)
+**Team Leader AI Platform - simpleclub**
 
-Established comprehensive AI platform strategy serving 2M+ users across external and internal systems. Built 5 production AI-powered features with zero GDPR violations while maintaining enterprise compliance standards. Designed platform architecture that enabled AI adoption across entire engineering organization, transforming both product capabilities and internal development workflows.
+Founded and lead the AI Platform team, establishing comprehensive AI strategy and development practices. Built 5 production AI-powered features for both external and internal use. Designed platform architecture with GDPR compliance considerations and drove AI adoption across the engineering organization.
 
-### Technical Leadership Foundation (2022-2024)
-**Scaling Engineering Operations & Team Growth**
+### Mobile Development Leadership (2022-2024) 
+**Technical Lead - simpleclub**
 
-Led mobile development initiatives while building the technical foundation for AI transformation. Increased system reliability (reduced crashes 21%) and code quality (0→52% test coverage) across user-facing applications. Managed team expansion and hiring while establishing development processes that later enabled rapid AI feature deployment.
+Led Flutter mobile development team and technical direction. Increased system reliability (reduced crashes 21%) and code quality (0→52% test coverage). Managed team expansion and hiring while building the technical foundation that later supported AI initiatives.
 
-## Key Achievements
+### AI/ML Personal Projects (2016-2021)
+**Independent Development**
 
-### Business Impact & Scale
-- **Built AI platform serving 2M+ users** with zero GDPR compliance violations across all deployments
-- **Established AI strategy from concept to production** enabling organization-wide AI adoption
-- **Led cross-functional initiatives** spanning Engineering, Product, Education teams for unified AI implementation
-- **Transformed development workflows** through AI-assisted processes while maintaining security and compliance standards
+Developed AI-powered applications including AutoWorkout (fitness AI with CoreML) and I Have Voice (accessibility app using machine learning). Built practical experience with TensorFlow, CoreML, and production ML deployment before joining formal AI platform role.
 
-### Technical Leadership & Team Growth
-- **Founded and scaled AI Platform capability** from concept to strategic organizational asset
-- **Managed team expansion and hiring** while building technical expertise across mobile and AI domains
-- **Established quality engineering practices** (0→52% test coverage, 21% crash reduction) that supported later AI deployments
-- **Built MLOps and platform architecture** enabling rapid, reliable AI feature development and deployment
-
-### Innovation & Industry Recognition
-- **16 years progressive technology leadership** from quality assurance through mobile development to AI platform strategy
-- **Conference speaking and thought leadership** sharing practical AI implementation insights with industry
-- **Founded tech community initiatives** (QA Dnipro Community 2010-2012) demonstrating early leadership in technology adoption
-- **Developed production applications** including accessibility solutions (I Have Voice) and AI-powered fitness platforms (AutoWorkout)
 
 ## Technical Expertise Evolution
 
