@@ -18,10 +18,10 @@ I've led AI platform teams and built production systems that actually deliver bu
 - Talent strategy transformation for AI-era hiring and team development
 - Context engineering strategies that optimize costs and performance
 
-**Industry-Specific Experience**
-- Financial services: Regulatory reporting requirements and explainable AI
-- Healthcare: HIPAA compliance considerations for AI workflows  
-- Manufacturing: AI integration with legacy systems and environments
+**Enterprise AI Challenges**
+- Compliance and governance frameworks for production AI systems
+- Integration patterns for AI with existing enterprise infrastructure  
+- Risk management strategies for AI implementation and vendor selection
 
 ## My Approach
 
