@@ -1,4 +1,5 @@
 ---
+title: "Run or Walk (Part 3): >99% Accuracy Neural Network Classifier for Detecting Motion Activity"
 date:
   created: 2017-09-05
 description: Designing and training neural network architectures that achieve over 99% accuracy in motion activity detection. Learn model architecture decisions, hyperparameter tuning, validation techniques, and how to optimize deep learning for mobile applications.
