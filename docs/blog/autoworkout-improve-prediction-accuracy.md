@@ -1,4 +1,5 @@
 ---
+title: "AutoWorkout: How to Improve Motion Activity Classifier Predictions?"
 date:
   created: 2018-01-23
 description: Exploring advanced techniques for improving machine learning model predictions in real-world fitness applications. Learn voting algorithms, outlier detection, and how to achieve production-ready accuracy from multiple classifier outputs in iOS/WatchOS apps.

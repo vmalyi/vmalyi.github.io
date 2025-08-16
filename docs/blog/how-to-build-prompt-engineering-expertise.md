@@ -1,4 +1,5 @@
 ---
+title: "How to Build Prompt Engineering Expertise At Your Company"
 date:
   created: 2024-12-02
 description: Learn practical strategies for developing prompt engineering capabilities within your organization without expensive external hires. Covers ideal candidate profiles, growth paths, and building sustainable AI expertise.
