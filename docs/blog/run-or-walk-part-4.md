@@ -1,4 +1,5 @@
 ---
+title: "Run or Walk (Part 4): Using Keras Neural Network Classifier in iOS With Core ML"
 date:
   created: 2017-11-14
 description: The final part of the series showing how to convert trained Keras models to Core ML format and integrate them into iOS applications for real-time motion activity detection. Complete guide from model serialization to iOS deployment.

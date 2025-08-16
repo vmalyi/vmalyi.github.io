@@ -1,4 +1,5 @@
 ---
+title: "Run or Walk (Part 2): Collecting Device Motion Data the Right Way"
 date:
   created: 2017-08-14
 description: Deep dive into proper data collection techniques for motion activity detection. Learn sensor selection, data frequency optimization, collection methodology, and how to avoid common data quality pitfalls when building machine learning datasets.

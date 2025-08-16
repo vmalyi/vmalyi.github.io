@@ -1,4 +1,5 @@
 ---
+title: "Run or Walk (Part 1): Detecting Motion Activity Type With Machine Learning and Core ML"
 date:
   created: 2017-08-05
 description: Introduction to building an end-to-end motion activity detection system using machine learning and Apple's Core ML framework. Learn how to distinguish between walking and running using iOS device sensors and explore the foundations of on-device machine learning.
