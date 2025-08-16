@@ -13,6 +13,13 @@ I focus on real-world experience over theoretical concepts, sharing lessons lear
 
 ## Latest Posts
 
+### 2025
+
+**[From REST APIs to MCPs: The Strategic Shift Any Company Offering API Endpoints Must Make Now](from-rest-apis-to-mcps-strategic-shift-any-company-offerring-api-endpoints-must-make-now.md)** - August 16, 2025  
+*AI, MCP, API Design, AI Agents*
+
+Why traditional REST APIs are becoming bottlenecks for AI agents and how Model Context Protocol (MCP) offers a strategic solution for companies offering API endpoints.
+
 ### 2024
 
 **[How to Build Prompt Engineering Expertise At Your Company](how-to-build-prompt-engineering-expertise.md)** - December 2, 2024  
