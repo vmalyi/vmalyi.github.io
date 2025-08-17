@@ -13,6 +13,8 @@ tags:
 
 # From REST APIs to MCPs: The Strategic Shift Any Company Offering API Endpoints Must Make Now
 
+--8<-- "youtube-cta.md"
+
 Chances are your most progressive customers are actually dealing with a serious challenge when interacting with your SaaS over the REST API you offer them. They're building AI agents which use your API endpoints as tools… but with no success.
 
 ## Your API endpoints are the bottleneck now
