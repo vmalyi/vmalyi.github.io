@@ -177,3 +177,5 @@ Potential enhancements to explore:
 - **Apple Watch integration**: Leverage dedicated wearable sensors  
 - **Personalization**: Adapt models to individual movement patterns
 - **Energy optimization**: Reduce battery consumption during inference
+
+--8<-- "linkedin-cta.md"

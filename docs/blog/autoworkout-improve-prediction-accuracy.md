@@ -210,3 +210,5 @@ Potential improvements for motion activity classification:
 - **Context awareness**: Use workout type to inform predictions  
 - **Temporal modeling**: LSTM networks for sequence prediction
 - **Confidence scoring**: Reliability metrics for each prediction
+
+--8<-- "linkedin-cta.md"
