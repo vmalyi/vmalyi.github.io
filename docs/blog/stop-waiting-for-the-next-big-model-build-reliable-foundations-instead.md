@@ -4,6 +4,7 @@ date:
   created: 2025-08-24
 description: Companies literally waited 1.5 years for GPT-5 to fix their fragile AI workflows instead of building proper foundations. While your competitors bet their AI strategy on the next model release, you could be building model-agnostic systems that deliver consistent quality regardless of what vendors announce next.
 keywords: AI strategy, model-agnostic AI, GPT-5, reliable AI systems, AI foundations, enterprise AI, AI leadership, vendor lock-in, AI implementation, future-proof AI
+youtube_url: "https://www.youtube.com/watch?v=YOUR_SPECIFIC_VIDEO_ID"
 tags:
   - ai-strategy
   - ai-leadership

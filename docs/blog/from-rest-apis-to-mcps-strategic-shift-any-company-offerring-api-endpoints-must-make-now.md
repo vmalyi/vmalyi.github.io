@@ -4,6 +4,7 @@ date:
   created: 2025-08-16
 description: Why traditional REST APIs are becoming bottlenecks for AI agents and how Model Context Protocol (MCP) offers a strategic solution for companies offering API endpoints.
 keywords: MCP, Model Context Protocol, REST API, AI agents, API design, artificial intelligence, token efficiency, API strategy
+youtube_url: "https://www.youtube.com/watch?v=YOUR_MCP_VIDEO_ID"
 tags:
   - ai
   - mcp
