@@ -12,83 +12,109 @@ tags:
   - anti-hype
 ---
 
-# Stop Waiting for the Next Big Model. Build Reliable Foundations Instead.
+# Stop Waiting for the Next Big Model (Like GPT-5). Build Reliable Foundations Instead.
 
 !!! info "The Anti-Hype AI Strategy Series"
-    This is **Part 1** of a 5-part series helping executives build reliable AI foundations while competitors chase the latest model releases. I'll cover why vendor priorities don't match your needs, the hidden costs of waiting, and the foundations that actually deliver results.
-
-Companies literally waited for GPT-5 to fix their fragile AI workflows instead of building proper foundations and saw minimal improvements when it finally arrived. 
-
-While your competitors continue betting their AI strategy on the next model release, you could be building model-agnostic systems that deliver consistent quality regardless of what OpenAI, Anthropic, or Google announce next.
-
-The numbers don't lie. According to [MIT's NANDA Initiative](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/), 95% of generative AI projects fail to achieve meaningful revenue acceleration. That's not a typo. Meanwhile, OpenAI hit $10 billion ARR growing 194% year-over-year by chasing investment rounds rather than fixing your broken workflows. 
-
-The disconnect is brutal: they're optimizing for Wall Street valuations while you're stuck with AI systems that label Oregon as "Onegon" and can't handle basic JSON formatting consistently.
-
-Here's what's actually happening. The industry has convinced you that the next model release will fix your reliability problems. It won't. There will always be a better model until we reach AGI, and betting your business strategy on vendor roadmaps is corporate malpractice.
-
-## The Great GPT-5 Reality Check
-
-**GPT-5 Expectation vs. Reality** hit the industry like a cold shower in August 2025. The hype machine had been running at full throttle for months. Sam Altman promised "PhD-level intelligence." Tech Twitter was buzzing with speculation about revolutionary capabilities. Enterprise AI teams delayed critical infrastructure investments, convinced that GPT-5 would solve their hallucination problems, their consistency issues, their verification tax nightmare.
-
-Then GPT-5 actually shipped.
-
-Reddit threads documenting basic failures accumulated 4,600+ upvotes with 70% negative sentiment. Users reported that GPT-5 was "fundamentally and completely broken" for basic tasks. One developer put it perfectly: "Currently, the only way to reliably use LLMs is to know the answer to the question before you ask it." OpenAI had to restore access to older models because the backlash was so severe.
-
-The disappointment wasn't really about GPT-5's capabilities. It was about the fundamental misunderstanding of what these models can and can't do. 
-
-Evolution versus revolution: GPT-5 represents incremental improvement, not transformation. AI researcher Maria Sukhareva [called](https://grahamlovelace.substack.com/p/ai-winter-is-coming-warns-leading) it "one of the most spectacular disappointments in AI," and Gary Marcus didn't mince words: "GPT-5 overdue, overhyped and underwhelming... half a trillion dollars in scaling direction, time to move on."
-
-Scaling up foundation models hits diminishing returns fast. GPT-5 might score 2% higher on some academic benchmark, but it still struggles with the same core reliability issues: hallucinations, inconsistent formatting, and what users call "generic LLM babble.".
-
-**Build vs. Wait Strategic Decision** became the defining choice of 2025, and most companies chose wrong. They waited. They literally paused foundational work, convinced that GPT-5 would eliminate their need for robust data pipelines, evaluation frameworks, and model-agnostic architectures. They were betting their AI strategy on a vendor's marketing promises instead of building systems they could control.
-
-Think about what that means. While your team was waiting for OpenAI to save them, your competitors were building systems that could route queries to the best model for each specific task, fall back to alternatives when primary models failed, and maintain consistent performance regardless of vendor drama.
-
-**The AGI Timeline Truth** is uncomfortable but necessary. There will always be a better model until we eventually achieve AGI, so stop hoping for miracles from vendors who have different agendas than fixing your broken workflows. This isn't pessimism, it's strategy.
-
-Every few months, there's another breakthrough announcement. First it was GPT-4 as a major breakthrough. Then GPT-4o. Now it's GPT-5, and the repeating pattern is already starting again with rumors that Google's DeepMind is about to deliver major improvements to the Gemini model family in the fall of 2025. 
-
-Each time, the hype cycle repeats: miraculous claims, enterprise teams pausing infrastructure work, inevitable disappointment when real-world performance doesn't match the marketing.
+    This is Part 1 of a 5-part series helping executives build reliable AI foundations while competitors chase the latest model releases. I'll cover why vendor priorities don't match your needs, the hidden costs of waiting, and the foundations that actually deliver results.
 
 
-## Building Systems That Actually Work
+What caused me to write this series is the discussion I was part of where the CTO was saying: "Our AI pilots aren't delivering the ROI we expected. But GPT-5 is around the corner. That'll solve our workflow failures, right?" 
 
-How do you prevent this from destroying your business? 
+Wrong. Dead wrong.
 
-Stop chasing models. Start building AI machines.
+The GPT-5 rollout in August 2025 became the wake-up call that shattered this comfortable delusion. Users documented basic failures: Oregon labeled as "Onegon," simple math errors that would embarrass a calculator (a humbling reminder that even "PhD-level intelligence" can't spell geography). [Reddit threads accumulated 4,600+ upvotes with 70% negative sentiment](https://wordcrafter.ai/blog/the-gpt-5-backlash-what-10000-reddit-discussions-reveal/), forcing OpenAI to restore access to older models their own customers were begging to get back.
 
-Companies succeeding with AI treat the LLM as a replaceable component. They've invested in data infrastructure. They measure everything obsessively. They're not waiting for vendors to solve their problems because they've solved them themselves.
+But here's what felt really painful to observe: companies that literally waited for GPT-5 to fix their fragile AI workflows saw minimal improvements when it arrived. Meanwhile, [**95% of generative AI projects continue to fail**](https://developmentcorporate.com/2025/08/22/mit-study-generative-ai-projects-failing/) at achieving meaningful revenue acceleration, according to MIT's NANDA Initiative. 
 
-**Model-agnostic architecture is your insurance policy.** What happens when OpenAI triples API prices overnight? When they deprecate the model version your entire business depends on? When a competitor acquires your AI vendor and cuts off access?
+That's not a technology problem. That's a foundations problem.
 
-Companies with vendor lock-in are existentially vulnerable. Companies with abstraction layers route around problems. They can switch from GPT to Claude to Llama without rewriting core business logic. They optimize costs by using different models for different tasks. They maintain service when any single vendor has issues.
+## The Comfortable Lie Many Want to Believe
 
-The technical implementation isn't rocket science. You build an abstraction layer that standardizes inputs and outputs regardless of the underlying model. You implement intelligent routing that sends different query types to the models that handle them best. You maintain fallback options for when primary systems fail.
+For sure I can imagine where this thinking comes from. Sam Altman has been remarkably vocal about revolutionary capabilities, and the hype feels intoxicating when you're staring at quarterly targets. The pattern was compelling: each leap from GPT-3 to GPT-3.5 to GPT-4 delivered genuine breakthroughs. Similar trajectory happened with Gemini's 2.5 series, which remains incomparably better than earlier generations.
 
-**Observability gives you control.** You need visibility into model performance in real-time, not post-mortem analysis after customer complaints. The companies getting AI right instrument everything: token usage by endpoint, error rates by model, latency distributions, user satisfaction scores.
+However, the truth is: **your AI failures aren't model limitations**. They're architecture failures, data quality failures, and evaluation failures pretending to be model limitations.
 
-They don't just monitor whether systems are working, they understand why they're not. When performance degrades, they can trace the issue through their entire AI pipeline: data quality problems, model drift, integration failures, or simple configuration issues.
+I keep hearing executives rationalize fragile workflows with "GPT-6 will handle our edge cases better." Translation: "We'll outsource our core competency to a vendor's roadmap and hope for the best." That's not strategy. That sounds like avoiding responsibility.
 
-This isn't optional infrastructure. It's the difference between AI systems you control and AI systems that control you.
+The comfortable lie whispers that breakthrough models arrive every six months to rescue poorly designed systems. The uncomfortable truth? [OpenAI hit **$10B ARR growing 194% year-over-year**](https://www.cnbc.com/2025/06/09/openai-hits-10-billion-in-annualized-revenue-fueled-by-chatgpt-growth.html) by chasing investment rounds and infrastructure dominance, not by fixing your broken document processing workflow.
 
-## The Strategic Reality
+## The Expensive Truth: What Actually Happens When You Wait
 
-Your competitors aren't waiting for AGI. They're not hoping OpenAI's next announcement will solve their business problems. They're building.
+Let me share what happened to a Fintech startup whose Head of AI I know personally (details changed for confidentiality, but the pain was real). Their head of operations convinced leadership to delay investing in AI infrastructure because "GPT-5 will make everything work seamlessly." So, they spent 11 months in holding pattern.
 
-They're implementing RAG systems that ground models in authoritative data sources. They're creating evaluation frameworks that catch errors before customers see them. They're architecting model-agnostic systems that work regardless of which vendor wins the foundation model wars.
+GPT-5 finally launched. Their core workflow (processing compliance documents) remained fundamentally broken. Why? Because the model upgrade couldn't fix their garbage data pipeline, couldn't eliminate hallucinations on company-specific terminology, and couldn't resolve the fact that **AI agent systems consume 4-15x more tokens** than simple workflows with minimal reliability improvements.
 
-They're treating AI as an engineering discipline, not magic. They understand that reliable AI systems require the same rigor as any other mission-critical business system: proper testing, monitoring, fallback options, and continuous improvement.
+Cost of waiting: close to **$2.0M in delayed efficiency gains**, plus an additional **$800K in rushed infrastructure work** to catch up to competitors who'd been building foundations continuously over the past year.
 
-The window for strategic advantage is narrowing. Companies building model-agnostic systems are capturing the best customers and setting the standards. Everyone else gets the scraps.
+This pattern repeats everywhere. According to S&P Global, **42% of businesses [scrapped](https://www.spglobal.com/market-intelligence/en/news-insights/research/ai-experiences-rapid-adoption-but-with-mixed-outcomes-highlights-from-vote-ai-machine-learning) most AI initiatives in 2024**, up from 17% in 2023. These aren't technology failures – they're strategic failures dressed up as technology problems.
 
-You need to invest in AI foundations. The question is whether you'll build them before your competitors do.
+Recent industry analysis from Q3 2024 reveals that [**only 1% of companies consider their generative AI implementations "mature"**](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage) according to McKinsey. The rest are stuck in what researchers call the ["gen AI paradox"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage): promising prototypes that break in production because they're built on quicksand.
 
-Stop waiting for miracles from vendors whose success doesn't depend on your success. Start building the reliable foundations that will deliver consistent value regardless of what Silicon Valley announces next quarter.
+## The Hidden Pattern: Why Vendors Can't Save You
 
-## Coming Next in The Anti-Hype AI Strategy Series
+Look, here's the thing about vendor priorities that most executives miss: OpenAI isn't optimizing for your quarterly targets. They're optimizing for their next funding round. Google isn't chasing your workflow reliability—they're chasing reasoning supremacy. Anthropic leads on safety, not your specific edge cases.
 
-Stay tuned for my next articles covering vendor agenda misalignment, the hidden costs of waiting for miracle solutions, diagnostic frameworks for understanding real failure causes, and the technical foundations that actually deliver reliable results.
+If you tracked OpenAI leadership's public appearances over the past six months, you'd notice the primary goal of GPT-5 wasn't revolutionary capability gains. It was efficiency—building a "universally good model" mindful of token consumption. Solving your failing tool calls or fixing known drawbacks from GPT-4o wasn't among their highest priorities (though removing the model selector from ChatGPT was—until user revolt forced them to restore it).
 
+The rumored upcoming Gemini version bump won't revolutionize poorly built systems either. We're in an "evolution instead of revolution" phase where **each vendor has fundamentally different agendas**, none primarily focused on fixing your broken workflows.
+
+That's the hidden pattern killing AI initiatives: executives abdicate architectural decisions to vendors who have completely different incentives. There will always be a "better model" until AGI emerges (if at all), but waiting transforms you from strategic leader to passive consumer.
+
+### Decision Framework: The Model-Agnostic Test
+
+Here is a cool exercise to do before your next AI investment. Just ask yourself these three questions:
+
+1. **Vendor Independence Test**: If our primary AI vendor tripled prices tomorrow, how quickly could we switch without business disruption?
+2. **Reliability Baseline Test**: Can our system maintain 99.9% uptime during model outages or API changes?
+3. **ROI Clarity Test**: Are we measuring success by model capabilities or business outcomes?
+
+If you can't answer confidently, you're building on quicksand.
+
+## The Practical Path: Building Antifragile AI
+
+The solution isn't waiting for magical models. It's building systems that improve regardless of which model powers them. There is a specific, proven playbook that is clearly visible in execution of companies who master AI.
+
+**Foundation First: The 90-Day Framework**
+
+**Phase 1 (Days 1-30): Data Architecture**
+
+Start with your data pipeline, not your model choice. Implement retrieval-augmented generation (RAG) to ground AI responses in your company's authoritative knowledge base. This single intervention eliminates **60-80% of hallucinations** by connecting models to verifiable facts instead of letting them fabricate answers.
+
+**Phase 2 (Days 31-60): Model-Agnostic Architecture**
+
+[Treat your LLM as a replaceable component](https://quiq.com/blog/llm-agnostic-ai/). Build abstraction layers and standardized APIs that let you swap models without touching business logic. This isn't just future-proofing. It's immediate cost optimization through intelligent routing.
+
+Smart architecture means using e.g. Gemini 2.5 Pro for complex reasoning and cheaper/faster Gemini 2.5 Flash-Lite for routine tasks. Here, **40-60% cost reductions** are possible from this intelligent routing alone.
+
+**Phase 3 (Days 61-90): Continuous Evaluation**
+
+Deploy model-agnostic evaluation frameworks that measure performance on your specific tasks, not public benchmarks. Public benchmarks poorly predict real-world reliability. Models that excel at graduate-level reasoning still often fail at consistent JSON formatting in production.
+
+Build evaluation suites that catch model drift before it impacts business outcomes. The only meaningful benchmark is continuous assessment against your actual use cases.
+
+### Delegation Guide: What to Ask Your Technical Teams
+
+**For your engineering leaders:**
+"Show me our fallback plan if OpenAI raises API costs by 300% next quarter. How quickly can we migrate critical workflows to alternative providers?"
+
+**For your data teams:**
+"What percentage of our AI errors stem from model limitations versus data quality issues? Show me the breakdown with specific examples."
+
+**For your AI/ML teams:**
+"Demonstrate how our evaluation metrics align with business outcomes, not just model benchmarks. What does 'good performance' mean in revenue terms?"
+
+## Breaking Free from the Hype Cycle
+
+Picture this conversation in your next board meeting: "We passed on upgrading to GPT-5.5 because our current  architecture already delivers top-notch results and swapping the model would only result in 0.3 ROI increase. Our intelligent routing system automatically optimizes for cost and performance across five different providers. We're model-agnostic and proud of it."
+
+That's the transformation from reactive consumer to strategic player. Instead of excitement about new releases, you feel confidence in your ability to evaluate them objectively. Imagine not being impressed by vendor demos because you know exactly how any new model would perform in your specific environment (or your team equipped with evals just needs an afternoon to find this out).
+
+The executives winning with AI aren't chasing the latest releases. They're building reliable, model-agnostic foundations that deliver consistent quality regardless of vendor announcements. They've achieved independence from hype-driven rollouts and the weeks of chaos that follow when "that new model" breaks existing workflows.
+
+Your competitive advantage isn't access to better models. It's building systems that get better faster than your models do. While competitors wait for GPT-5.5/6/7 to solve their fundamental architecture problems, you'll be implementing your third-generation evaluation framework and deploying AI that actually works.
+
+**Build your AI systems on foundations that last. Not new overhyped models**
+
+PS: Stay tuned for next articles in this series helping you to navigate AI adoption in a pragmatic way.
 
 --8<-- "linkedin-cta.md"
