@@ -67,4 +67,4 @@ Interested in having me speak at your event? I'm particularly interested in:
 
 **Ready to discuss your event?** Connect with me on [LinkedIn](https://de.linkedin.com/in/viktormalyi) with details about your event, audience, and preferred topics. I respond to speaking inquiries within 2 business days.
 
-**Also find me on**: [YouTube](https://www.youtube.com/@TheTalkingAIHead) | [Twitter](https://twitter.com/victormalyy)
+**Also find me on**: [YouTube](https://www.youtube.com/@PracticalAILeadership) | [Twitter](https://twitter.com/victormalyy)

@@ -27,12 +27,12 @@ Ready to dive deeper into practical AI implementation strategies?
 
 **[Read My Blog](/blog/)** - Deep-dive articles on AI leadership frameworks and implementation insights
 
-**[Watch My Videos](https://www.youtube.com/@TheTalkingAIHead)** - Practical AI guidance and real-world case studies
+**[Watch My Videos](https://www.youtube.com/@PracticalAILeadership)** - Practical AI guidance and real-world case studies
 
 ## Follow My Work
 
 Stay updated with the latest insights on practical AI implementation:
 
 - **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi) - AI leadership insights and industry analysis
-- **YouTube**: [@TheTalkingAIHead](https://www.youtube.com/@TheTalkingAIHead) - Video content on AI implementation
+- **YouTube**: [@PracticalAILeadership](https://www.youtube.com/@PracticalAILeadership) - Video content on AI implementation
 - **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
