@@ -1,6 +1,6 @@
 # Viktor Malyi - Practical AI Leadership
 
-Real-world AI implementation experience from 16 years in tech and 3 years in AI leadership. I share practical frameworks and insights for building AI systems that actually deliver business value.
+Real-world AI implementation experience from 16 years in tech and 8 years in AI. I share practical frameworks and insights for building AI systems that actually deliver business value.
 
 ## What You'll Find Here
 
