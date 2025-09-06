@@ -26,7 +26,7 @@ plugins:
       feed_description: "Practical AI implementation insights from Viktor Malyi"
 
 nav:
-  - Home: index.md
+  - Start: index.md
   - Blog: blog/index.md
   - Speaking: speaking/index.md
   - About: about.md

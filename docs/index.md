@@ -1,6 +1,15 @@
-# Viktor Malyi - Practical AI Leadership
+---
+title: Viktor Malyi – Practical AI Leadership
+---
 
-Real-world AI implementation experience from 16 years in tech and 8 years in AI. I share practical frameworks and insights for building AI systems that actually deliver business value.
+# Viktor Malyi – Practical AI Leadership
+
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <img src="assets/photo_crop.jpg" alt="Viktor Malyi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <div>
+    <p style="font-size: 1.1em; margin: 0;">Real-world AI implementation experience from 16 years in tech and 8 years in AI. I share practical frameworks and insights for building AI systems that actually deliver business value.</p>
+  </div>
+</div>
 
 ## What You'll Find Here
 
