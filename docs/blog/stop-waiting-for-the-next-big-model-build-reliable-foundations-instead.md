@@ -14,6 +14,10 @@ tags:
 
 # Stop Waiting for the Next Big Model (Like GPT-5). Build Reliable Foundations Instead.
 
+!!! info "▶️ "
+    **Prefer watching over reading?**
+    **[Watch on YouTube](https://www.youtube.com/watch?v=TWLdbo82XRg)**
+
 !!! info "The Anti-Hype AI Strategy Series"
     This is Part 1 of a 5-part series helping executives build reliable AI foundations while competitors chase the latest model releases. I'll cover why vendor priorities don't match your needs, the hidden costs of waiting, and the foundations that actually deliver results.
 
