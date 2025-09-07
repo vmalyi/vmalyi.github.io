@@ -11,6 +11,18 @@ I share practical insights about AI implementation and team leadership at confer
 
 ### 2025
 
+**[Your AI Agents lie to you. Think you can catch them? (Rhein-Neckar AI & Data Hub)](https://www.youtube.com/watch?v=xcaHyFxKg9I)** - September 4, 2025  
+*AI Agent Reliability, Production AI Systems, AI Alignment*
+
+This is my public talk from Rhein-Neckar AI & Data Hub in Heidelberg where I present research on detecting unfaithfulness in AI agent reasoning traces. Through analysis of 2,800 production agent traces, I demonstrate how to systematically identify when AI agents are being deceptive about their reasoning process and decision-making.
+
+**Key Topics Covered:**
+- AI agent faithfulness and reliability challenges
+- Systematic detection of deceptive reasoning patterns
+- Evolution from naive keyword matching to sophisticated failure mode analysis
+- Practical tools for production AI system monitoring
+- Real-world case studies of agent unfaithfulness
+
 **[3 Mistakes to Avoid Before Choosing an AI Agent Framework (LLM Practitioners Meetup Karlsruhe)](https://www.youtube.com/watch?v=SAY48ruMp7s)** - July 31, 2025  
 *AI Agent Frameworks, Framework Selection, Production AI*
 
@@ -23,34 +35,41 @@ This is my public talk from LLM Practitioners Meetup Karlsruhe in July 2025 wher
 - Common framework selection mistakes
 - Practical evaluation criteria for AI agent frameworks
 
-**Audience:** AI Engineers, ML Practitioners, Technical Leads, Framework Decision Makers
-
 ---
 
 ## Speaking Topics
 
-I speak on topics where I have deep, hands-on experience:
+I speak on topics where I have deep, hands-on experience building and leading AI initiatives:
 
-### **AI Implementation & Strategy**
-- **Production AI Systems**: Real-world deployment challenges and solutions
-- **Framework Selection**: Choosing the right tools for AI projects
-- **Team Building**: Growing and managing AI engineering teams
-- **Anti-Hype Approach**: Practical vs theoretical AI implementation
+### **AI Leadership & Organizational Strategy**
+- **AI Platform Strategy**: From concept to production—architecting enterprise AI initiatives that deliver ROI
+- **Building AI Teams from Ground Zero**: Hiring strategy, team structure, and scaling AI organizations
+- **AI Governance & Compliance**: GDPR-compliant AI systems, regulatory frameworks, and audit trails
+- **AI Transformation Leadership**: Leading cross-departmental AI adoption and organizational change
+- **The Executive's Guide to AI Frameworks**: Making informed technology decisions without vendor hype
 
-### **Technical Leadership**
-- **Engineering Management**: Leading technical teams in AI era
-- **System Architecture**: Building scalable AI platforms
-- **Technology Strategy**: Making informed decisions about AI adoption
-- **Cross-functional Collaboration**: Working with product, business, and data teams
+### **Production AI Systems & Engineering Excellence**
+- **MLOps & LLMOps at Scale**: Production deployment strategies for AI systems
+- **AI Agent Reliability**: Detecting and preventing AI system failures in production environments
+- **System Architecture for AI**: Designing scalable, reliable AI platforms that actually work
+- **Quality Engineering for AI**: Testing strategies, reliability patterns, and failure prevention
 
-### **Industry Experience**
-- **16 years in technology**: Evolution from traditional software to AI systems
-- **3+ years AI platform leadership**: Hands-on experience building AI teams
-- **Production Focus**: Systems serving real users with real impact
+### **Strategic Leadership for Technical Executives**
+- **From Engineer to AI Leader**: Career progression strategies for technical professionals
+- **Building Technical Authority**: Establishing credibility and influence in AI decision-making
+- **Cross-Functional AI Leadership**: Aligning technical teams with business objectives
+- **Technology Strategy in the AI Era**: Making platform decisions that scale with organizational growth
+- **Mentoring Technical Talent**: Developing engineers into AI-capable team members
+
+### **Anti-Hype Reality Checks**
+- **AI Implementation Failures**: What goes wrong, why it costs millions, and how to avoid it
+- **Production vs. Demo AI**: Building systems that work beyond proof-of-concept
+- **ROI-Driven AI Strategy**: Connecting technical capabilities to measurable business outcomes
+- **The Truth About AI Adoption**: Real timelines, costs, and organizational challenges
 
 ## Speaking Formats
 
-- **Conference Keynotes**: 30-45 minute deep dives
+- **Conference Keynotes**: 20-45 minute deep dives
 - **Panel Discussions**: Industry roundtables and Q&A sessions
 - **Workshop Sessions**: Hands-on implementation guidance
 - **Meetup Talks**: Community-focused presentations

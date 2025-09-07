@@ -7,36 +7,37 @@ title: Viktor Malyi – Practical AI Leadership
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap; justify-content: center; text-align: center;">
   <img src="assets/photo_crop.jpg" alt="Viktor Malyi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
   <div>
-    <p style="font-size: 1.1em; margin: 0;">Real-world AI implementation experience from 16 years in tech and 8 years in AI. I share practical frameworks and insights for building AI systems that actually deliver business value.</p>
+    <p style="font-size: 1.1em; margin: 0;">16 years in tech, with 8 years total in AI/ML and the last 3 years leading AI initiatives. I share practical insights from building production AI systems and leading technical teams through AI adoption challenges.</p>
   </div>
 </div>
 
 ## What You'll Find Here
 
-### Strategic AI Leadership Frameworks
-- Translating technical AI metrics into financial impact for executive reporting
-- Build vs. buy decision frameworks for AI tool selection  
-- OKR implementation strategies that drive measurable AI outcomes
-- Team building approaches that accelerate AI adoption
+### AI Platform Development
+- **Production Systems**: Building and deploying 5 AI systems that handle real user traffic and generate measurable business impact
+- **Technical Architecture**: Designing GDPR-compliant AI platforms and establishing organizational standards for AI development
+- **Team Leadership**: Leading AI platform teams and driving cross-departmental adoption of AI tools and processes
+- **Performance Measurement**: Connecting technical AI metrics to business outcomes through practical measurement approaches
 
-### Implementation Insights
-- Why phased AI implementation drives better ROI than "magic button" solutions
-- Vendor evaluation frameworks for navigating 20+ AI coding assistants
-- Talent strategy transformation for AI-era hiring and team development
-- Context engineering strategies that optimize costs and performance
+### AI Team Leadership
+- **Team Building**: Establishing AI platform teams from scratch and defining technical roles and responsibilities
+- **Technology Evaluation**: Practical experience evaluating AI frameworks, tools, and vendor solutions for production use
+- **Development Processes**: Creating development workflows, testing strategies, and deployment pipelines for AI systems
+- **Knowledge Sharing**: Training engineering teams on AI tools and helping organizations adopt AI development practices
 
-### Enterprise AI Challenges
-- Compliance and governance frameworks for production AI systems
-- Integration patterns for AI with existing enterprise infrastructure  
-- Risk management strategies for AI implementation and vendor selection
+### Technical Leadership Experience
+- **Quality Engineering**: 16 years of experience building reliable, tested systems that serve millions of users
+- **Mobile Architecture**: Technical leadership for mobile platforms serving 1M+ monthly active users
+- **Compliance & Security**: Real-world experience with regulatory requirements, GDPR compliance, and security practices
+- **Cross-functional Collaboration**: Working with product, business, and data teams to deliver technical solutions that meet business needs
 
 ## Explore My Content
 
-Ready to dive deeper into practical AI implementation strategies?
+Ready to dive deeper into practical AI implementation insights?
 
-**[Read My Blog](/blog/)** - Deep-dive articles on AI leadership frameworks and implementation insights
+**[Read My Blog](/blog/)** - Technical articles on AI development, team leadership, and real-world implementation challenges
 
-**[Watch My Videos](https://www.youtube.com/@PracticalAILeadership)** - Practical AI guidance and real-world case studies
+**[Watch My Videos](https://www.youtube.com/@PracticalAILeadership)** - Practical AI guidance and lessons learned from production systems
 
 ## Follow My Work
 

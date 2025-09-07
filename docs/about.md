@@ -2,23 +2,23 @@
 
 ## Professional Background
 
-With 16 years in technology and hands-on AI/ML experience since 2016, I currently lead AI platform development at simpleclub. I focus on building production AI systems that deliver practical business value while navigating enterprise compliance requirements.
+With 16 years in technology, 8 years total in AI/ML and the last 3 years leading AI initiatives, I currently lead the AI Platform team at simpleclub. I focus on building production AI systems and helping technical teams adopt AI tools and practices effectively.
 
 ## Career Journey
 
 ### AI Platform Leadership (2024-Present)
 **Team Leader AI Platform - simpleclub**
 
-Founded and lead the AI Platform team, establishing comprehensive AI strategy and development practices. Built 5 production AI-powered features for both external and internal use. Designed platform architecture with GDPR compliance considerations and drove AI adoption across the engineering organization.
+**AI Platform Development**: Built the AI Platform team from scratch and established AI development practices for the organization. Led development of 5 production AI systems that generate measurable business impact. Created GDPR-compliant AI frameworks and helped drive AI adoption across engineering teams in 3 departments.
 
 ### Mobile Leadership (2020-2024)
 **Technical Lead - simpleclub (2022-2024)**
 
-Led Flutter mobile development team and technical direction. Increased system reliability (reduced crashes 21%) and code quality (0→52% test coverage). Managed team expansion and hiring while building the technical foundation that later supported AI initiatives.
+**Mobile Technical Leadership**: Led Flutter mobile development for a platform serving 1M+ monthly active users. Defined mobile architecture and technical decisions that guided product development. Built hiring processes and technical standards that improved team onboarding. Established the technical foundation that later supported AI platform initiatives.
 
 **Flutter Team Lead - Glooko/xbird (2020-2022)**
 
-Led mobile team for Flavia diabetes management app, a certified medical product. Assembled engineering team from concept to market launch in Germany. Established development workflow, planning, and release pipeline processes.
+**Medical Device Development**: Led mobile engineering for Flavia diabetes management app, a certified medical device launched in the German market. Built and managed the mobile engineering team from concept through regulatory approval to market deployment. Established development workflows and processes for medical device software development.
 
 ### iOS Development & AI/ML Innovation (2016-2020)
 **Senior iOS Engineer - xbird (2019-2020)**
@@ -51,16 +51,16 @@ Organized meetups and first software testing conference in Dnipropetrovsk.
 Solo test engineer for insurance domain web applications. Formalized testing activities company-wide.
 
 
-## Technical Expertise Evolution
+## Technical Leadership Experience
 
-**Current Focus**: LLMs, MLOps, AI Platforms, GDPR compliance  
-**Mobile Leadership**: Flutter, iOS (Swift, Objective-C), Android development  
-**Backend & AI**: Python, TensorFlow, Keras, CoreML  
-**Infrastructure**: Google Cloud, Firebase, CI/CD pipelines  
-**Quality & Security**: Automated testing, OWASP security audits
+**AI Platform Development**: Building production AI systems, GDPR-compliant architectures, and AI development standards  
+**Team Leadership**: Building technical teams from scratch, establishing hiring processes, and mentoring engineers  
+**Mobile Architecture**: Leading mobile development for platforms serving millions of users with quality and reliability focus  
+**Quality Engineering**: 16 years of experience in testing, automation, and building reliable software systems  
+**Cross-Industry Experience**: Healthcare compliance, EdTech platforms, consumer electronics, and automotive systems
 
 ## Why I Share This Experience
 
-AI implementation requires more than technical knowledge—it demands understanding of team dynamics, business alignment, compliance requirements, and operational realities. My goal is to bridge the gap between AI capabilities and business outcomes through practical, hands-on experience.
+Building AI systems in production teaches you lessons that theory alone cannot provide. Technical leadership in AI requires understanding not just the technology, but how teams adopt it, how to measure its impact, and how to build it reliably.
 
-Having built systems that run in production, led teams through AI adoption, and established enterprise AI platforms, I focus on sharing what actually works rather than theoretical approaches.
+I share practical insights from leading AI platform development, building technical teams, and implementing AI systems that serve real users. My focus is on what actually works in practice rather than what sounds good in presentations.
