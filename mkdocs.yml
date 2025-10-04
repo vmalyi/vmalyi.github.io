@@ -7,6 +7,7 @@ theme:
   name: shadcn
   show_title: true
   icon: null
+  custom_dir: overrides
 
 plugins:
   - search:
