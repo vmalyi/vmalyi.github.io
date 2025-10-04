@@ -28,6 +28,7 @@ plugins:
 nav:
   - Start: index.md
   - Blog: blog/index.md
+  - Courses: courses/index.md
   - Speaking: speaking/index.md
   - About: about.md
 
