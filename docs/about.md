@@ -1,6 +1,6 @@
 ---
-title: "About Viktor Malyi | AI Platform Leader & Technical Speaker"
-description: "Viktor Malyi's professional background: 16 years in tech, 8 years in AI/ML, leading AI platform teams and building production AI systems. Former Apple WWDC featured developer, technical speaker, and AI implementation expert."
+title: "About Viktor Malyi | AI Strategy & Engineering Consultant"
+description: "Viktor Malyi's professional background: 16 years in tech, 8 years in AI/ML, AI Strategy & Engineering Consultant helping companies ship AI initiatives. Former Apple WWDC featured developer, technical speaker, and AI implementation expert."
 keywords: "viktor malyi, ai platform leader, technical speaker, production ai, ai team leadership, apple wwdc, ai engineering"
 author: "Viktor Malyi"
 ---
@@ -9,9 +9,14 @@ author: "Viktor Malyi"
 
 ## Professional Background
 
-With 16 years in technology, 8 years total in AI/ML and the last 3 years leading AI initiatives, I currently lead the AI Platform team at simpleclub. I focus on building production AI systems and helping technical teams adopt AI tools and practices effectively.
+With 16 years in technology and 8 years in AI/ML, I help companies build, scale, and reliably ship AI initiatives as an independent AI Strategy & Engineering Consultant. Alongside consulting, I lead the AI Platform team at simpleclub, where I focus on building production AI systems and helping technical teams adopt AI tools and practices effectively.
 
 ## Career Journey
+
+### AI Strategy & Engineering Consulting (2025-Present)
+**Independent Consultant**
+
+Help companies build, scale, and reliably ship AI initiatives. Bridge the gap from R&D to production through fixed-outcome investments: AI roadmap diagnostics, thin-slice production sprints, and embedded leadership engagements. Co-build with client teams to ensure full knowledge transfer and autonomous capability.
 
 ### AI Platform Leadership (2024-Present)
 **Team Leader AI Platform - simpleclub**
