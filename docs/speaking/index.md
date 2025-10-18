@@ -1,6 +1,8 @@
 ---
-description: Viktor Malyi speaks at conferences and events about practical AI implementation, team leadership, and building production AI systems. View speaking topics, featured presentations, and booking information for enterprise AI events.
-keywords: AI speaker, conference speaker, AI implementation, team leadership, production AI systems, enterprise AI, technical speaking, CTO events, AI strategy, engineering leadership
+title: "Speaking - AI Leadership & Implementation | Viktor Malyi"
+description: "Viktor Malyi speaks at conferences and events about practical AI implementation, team leadership, and building production AI systems. View speaking topics, featured presentations, and booking information for enterprise AI events."
+keywords: "ai speaker, conference speaker, ai implementation, team leadership, production ai systems, enterprise ai, technical speaking, cto events, ai strategy, engineering leadership"
+author: "Viktor Malyi"
 ---
 
 # Speaking

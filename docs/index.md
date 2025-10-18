@@ -1,5 +1,11 @@
 ---
-title: Viktor Malyi – Practical AI Leadership
+title: "Viktor Malyi - Practical AI Leadership | AI Platform Development & Team Leadership"
+description: "Practical insights on building production AI systems from 16 years in tech and 8 years in AI/ML. Learn from real-world experience leading AI platform teams, deploying 5 production AI systems, and driving organizational AI adoption."
+keywords: "ai platform development, production ai systems, ai team leadership, mlops, ai engineering, ai implementation, practical ai, ai platform architecture, ai adoption, gdpr ai compliance"
+author: "Viktor Malyi"
+image: "https://vmalyi.com/assets/photo_crop.jpg"
+twitter_card: "summary_large_image"
+twitter_site: "@victormalyy"
 ---
 
 # Viktor Malyi – Practical AI Leadership

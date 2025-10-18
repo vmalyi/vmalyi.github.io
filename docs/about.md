@@ -1,3 +1,10 @@
+---
+title: "About Viktor Malyi | AI Platform Leader & Technical Speaker"
+description: "Viktor Malyi's professional background: 16 years in tech, 8 years in AI/ML, leading AI platform teams and building production AI systems. Former Apple WWDC featured developer, technical speaker, and AI implementation expert."
+keywords: "viktor malyi, ai platform leader, technical speaker, production ai, ai team leadership, apple wwdc, ai engineering"
+author: "Viktor Malyi"
+---
+
 # About Viktor Malyi
 
 ## Professional Background

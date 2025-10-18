@@ -1,8 +1,10 @@
 ---
+title: "Blog - Practical AI Implementation Insights | Viktor Malyi"
 date:
   created: 2024-01-01
-description: Welcome to my blog where I share practical insights about AI implementation, team leadership, and building production AI systems.
-keywords: AI implementation, team leadership, production AI systems, machine learning, artificial intelligence, AI strategy, technical leadership, AI blog
+description: "Practical insights on AI implementation, team leadership, and building production AI systems from 16 years in tech. Real-world lessons on AI platform development, MLOps, model deployment, and organizational AI adoption."
+keywords: "ai implementation, production ai systems, ai team leadership, mlops, ai platform development, ai engineering blog, practical ai, ai adoption, model deployment, ai strategy"
+author: "Viktor Malyi"
 ---
 
 # Blog

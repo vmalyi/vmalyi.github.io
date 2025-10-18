@@ -1,6 +1,6 @@
 site_name: Viktor Malyi - Practical AI Leadership
 site_url: https://vmalyi.com
-site_description: Practical AI implementation insights and real-world experience from 16 years in technology and 3+ years leading AI platform teams. Expert guidance on production AI systems, team leadership, and framework selection.
+site_description: "Practical insights on building production AI systems from 16 years in tech and 8 years in AI/ML. Learn from real-world experience leading AI platform teams, deploying 5 production systems, and driving organizational AI adoption. Technical articles, case studies, and speaking topics on AI implementation."
 site_author: Viktor Malyi
 
 theme:
