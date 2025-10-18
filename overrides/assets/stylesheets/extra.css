@@ -1,0 +1,26 @@
+/* Hide search field in header */
+header .hidden.w-full.flex-1.md\:flex {
+  display: none !important;
+}
+
+/* Hide GitHub icon/link in header */
+header a[href*="github"],
+header a[rel="noreferrer"][target="_blank"]:has(svg[viewBox="0 0 438.549 438.549"]) {
+  display: none !important;
+}
+
+/* Hide separators next to removed elements */
+header div[data-slot="separator"] {
+  display: none !important;
+}
+
+/* Hide theme toggle and layout toggle buttons */
+header button[title*="Toggle theme"],
+header button[title*="Toggle layout"] {
+  display: none !important;
+}
+
+/* Hide "On This Page" sidebar */
+.xl\:flex.w-72 {
+  display: none !important;
+}

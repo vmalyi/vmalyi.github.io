@@ -9,6 +9,9 @@ theme:
   icon: null
   custom_dir: overrides
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 plugins:
   - search:
       indexing: 'full'
