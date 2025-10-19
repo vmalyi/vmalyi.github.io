@@ -49,22 +49,6 @@ Ready to dive deeper into practical AI implementation insights?
 
 **[Watch My Videos](https://www.youtube.com/@PracticalAILeadership)** - Practical AI guidance and lessons learned from production systems
 
-## Courses
-
-### AI Evaluation Starter Kit (5-Day Email Course)
-
-Learn how to build reliable AI systems through systematic evaluation. This practical course guides you from manual testing to production-ready evaluation systems that catch failures before users do.
-
-**What you'll learn:**
-
-- The hidden cost of evaluation blindness in AI systems
-- AI evaluation maturity levels that separate professionals from amateurs
-- Practical framework for systematic AI evaluation
-- How to build your first evaluation asset in weeks, not months
-- Real-world implementation strategies from production AI systems
-
-[**Enroll for Free →**](https://practical-ai-leadership.com/ai-evals-starter-kit-email-course)
-
 ## Follow My Work
 
 Stay updated with the latest insights on practical AI implementation:
@@ -72,3 +56,7 @@ Stay updated with the latest insights on practical AI implementation:
 - **LinkedIn**: [viktormalyi](https://de.linkedin.com/in/viktormalyi) - AI leadership insights and industry analysis
 - **YouTube**: [@PracticalAILeadership](https://www.youtube.com/@PracticalAILeadership) - Video content on AI implementation
 - **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://practical-ai-leadership.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
+</div>

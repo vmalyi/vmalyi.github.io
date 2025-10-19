@@ -13,7 +13,7 @@ With 16 years in technology and 8 years in AI/ML, I help companies build, scale,
 
 ## Career Journey
 
-### AI Strategy & Engineering Consulting (2025-Present)
+### AI Strategy & Engineering Consulting (October 2025-Present)
 **Independent Consultant**
 
 Help companies build, scale, and reliably ship AI initiatives. Bridge the gap from R&D to production through fixed-outcome investments: AI roadmap diagnostics, thin-slice production sprints, and embedded leadership engagements. Co-build with client teams to ensure full knowledge transfer and autonomous capability.
@@ -67,12 +67,10 @@ Solo test engineer for insurance domain web applications. Formalized testing act
 
 **AI Platform Development**: Building production AI systems, GDPR-compliant architectures, and AI development standards  
 **Team Leadership**: Building technical teams from scratch, establishing hiring processes, and mentoring engineers  
-**Mobile Architecture**: Leading mobile development for platforms serving millions of users with quality and reliability focus  
-**Quality Engineering**: 16 years of experience in testing, automation, and building reliable software systems  
+**Mobile Architecture**: Leading mobile development for platforms serving millions of users with quality and reliability focus
+**Quality Engineering**: 16 years of experience in testing, automation, and building reliable software systems
 **Cross-Industry Experience**: Healthcare compliance, EdTech platforms, consumer electronics, and automotive systems
 
-## Why I Share This Experience
-
-Building AI systems in production teaches you lessons that theory alone cannot provide. Technical leadership in AI requires understanding not just the technology, but how teams adopt it, how to measure its impact, and how to build it reliably.
-
-I share practical insights from leading AI platform development, building technical teams, and implementing AI systems that serve real users. My focus is on what actually works in practice rather than what sounds good in presentations.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://practical-ai-leadership.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
+</div>
