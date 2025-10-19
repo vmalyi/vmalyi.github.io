@@ -1,0 +1,14 @@
+<script>
+    // Force light mode permanently - ignore system preferences
+    // This overrides the default mkdocs-shadcn dark.html template
+
+    // Always remove dark class to force light mode
+    document.documentElement.classList.remove("dark");
+    localStorage.setItem("theme", "light");
+
+    // Set the layout based on localStorage (preserve layout functionality)
+    document.documentElement.classList.add(localStorage.getItem("html-layout") || "layout-fixed");
+
+    // Prevent any theme changes - no listeners for system preference changes
+    // This ensures light mode is locked regardless of user's OS settings
+</script>

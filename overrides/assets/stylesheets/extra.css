@@ -1,3 +1,8 @@
+/* Force light mode */
+:root {
+  color-scheme: light;
+}
+
 /* Hide search field in header */
 header .hidden.w-full.flex-1.md\:flex {
   display: none !important;
