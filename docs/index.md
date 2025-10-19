@@ -1,5 +1,5 @@
 ---
-title: "Viktor Malyi - Practical AI Leadership | AI Strategy & Engineering Consulting"
+title: "Viktor Malyi - Practical AI Leadership"
 description: "Practical insights on building production AI systems from 16 years in tech and 8 years in AI/ML. AI Strategy & Engineering Consultant helping companies ship AI initiatives. Learn from real-world experience deploying 5 production AI systems and driving organizational AI adoption."
 keywords: "ai platform development, production ai systems, ai team leadership, mlops, ai engineering, ai implementation, practical ai, ai platform architecture, ai adoption, gdpr ai compliance"
 author: "Viktor Malyi"
