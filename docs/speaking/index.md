@@ -13,7 +13,20 @@ I share practical insights about AI implementation and team leadership at confer
 
 ### 2025
 
-**[Your AI Agents lie to you. Think you can catch them? (Rhein-Neckar AI & Data Hub)](https://www.youtube.com/watch?v=xcaHyFxKg9I)** - September 4, 2025  
+**[AI Strategy in a Six Month World: Leading When Long Term Planning Is Dead (DevFest Hamburg 2025)](https://www.youtube.com/watch?v=G16JdRRawwg)** - November 15, 2025
+*AI Strategy, AI Transformation, Leadership, Rapid Iteration, Organizational Change*
+
+In this talk, I share insights gathered from conversations with various companies about their approaches to AI transformation. I emphasize the rapid pace of AI advancements and the impracticality of planning beyond six months, focusing on prioritizing tangible AI value over hype, investing in talent, and the necessity of fast iteration cycles.
+
+**Key Topics Covered:**
+- The six-month AI strategy cycle in a rapidly evolving landscape
+- Three essential bets: AI coding assistants, observability & evaluation, talent transformation
+- Seven-step framework for developing effective AI strategy
+- Business alignment, readiness assessments, and risk mapping
+- Build vs. buy decisions in AI implementation
+- Fast iteration cycles and flexible execution approach
+
+**[Your AI Agents lie to you. Think you can catch them? (Rhein-Neckar AI & Data Hub)](https://www.youtube.com/watch?v=xcaHyFxKg9I)** - September 4, 2025
 *AI Agent Reliability, Production AI Systems, AI Alignment*
 
 This is my public talk from Rhein-Neckar AI & Data Hub in Heidelberg where I present research on detecting unfaithfulness in AI agent reasoning traces. Through analysis of 2,800 production agent traces, I demonstrate how to systematically identify when AI agents are being deceptive about their reasoning process and decision-making.
