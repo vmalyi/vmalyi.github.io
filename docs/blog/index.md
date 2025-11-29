@@ -21,6 +21,11 @@ I focus on real-world experience over theoretical concepts, sharing lessons lear
 
 ### 2025
 
+**[Stop Overengineering Evals: 50 Datapoints and 30 Minutes Is All You Need to Start](stop-overengineering-evals-50-datapoints-is-all-you-need.md)** - November 29, 2025
+*AI Evals, Production AI, Practical AI, LLM Testing, Anti-Hype*
+
+From my consulting work, I estimate that 70% of teams building AI systems have zero systematic testing in place during early development. Not because they don't value evals, but because they're stuck choosing between frameworks. Here's the practical 50-datapoint approach that works.
+
 **[Stop Waiting for the Next Big Model. Build Reliable Foundations Instead.](stop-waiting-for-the-next-big-model-build-reliable-foundations-instead.md)** - August 24, 2025  
 *AI Strategy, AI Leadership, Enterprise AI, Model-Agnostic, Anti-Hype* | **Part 1 of The Anti-Hype AI Strategy Series**
 
