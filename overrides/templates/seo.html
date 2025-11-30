@@ -63,49 +63,37 @@
 <!-- JSON-LD Structured Data -->
 {% if page.meta.title and page.meta.description %}
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{% if page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title }}{% endif %}",
-    "url": "{{ page.canonical_url }}",
-    "description": "{{ page.meta.description }}",
-    {% if page.meta.author %}
-    "author": {
-      "@type": "Person",
-      "name": "{{ page.meta.author }}"
-    },
-    {% endif %}
-    {% if site_name %}
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{ site_name }}",
-      {% if page.meta.image %}
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ page.meta.image }}"
-      }
-      {% endif %}
-    },
-    {% endif %}
-    {% if page.meta.date and page.meta.date.created %}
-    "datePublished": "{{ page.meta.date.created }}",
-    {% endif %}
-    {% if page.canonical_url %}
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ page.canonical_url }}"
-    },
-    {% endif %}
-    {% if page.meta.image %}
-    "image": {
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{% if page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title }}{% endif %}",
+  "description": "{{ page.meta.description }}"{% if page.meta.author %},
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.meta.author }}"
+  }{% endif %}{% if site_name %},
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site_name }}"{% if page.meta.image %},
+    "logo": {
       "@type": "ImageObject",
-      "url": "{{ page.meta.image }}",
-      "width": 1200,
-      "height": 630
-    }
-    {% endif %}
-  }
-  </script>
+      "url": "{{ page.meta.image }}"
+    }{% endif %}
+  }{% endif %}{% if page.meta.date and page.meta.date.created %},
+  "datePublished": "{{ page.meta.date.created }}"{% endif %}{% if page.canonical_url %},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.canonical_url }}"
+  }{% endif %}{% if page.meta.image %},
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.meta.image }}",
+    "width": 1200,
+    "height": 630
+  }{% endif %},
+  "url": "{{ page.canonical_url }}"
+}
+</script>
 {% endif %}
 
 {% endblock seo %}
