@@ -166,4 +166,6 @@ Stay tuned for last article in this series, where I show how the neural network 
 
 - [Run or Walk (Part 4): Using Keras Neural Network Classifier in iOS with Core ML](run-or-walk-part-4.md)
 
+--8<-- "work-with-me-cta.md"
+
 --8<-- "linkedin-cta.md"

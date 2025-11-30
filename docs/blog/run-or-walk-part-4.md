@@ -178,4 +178,6 @@ Potential enhancements to explore:
 - **Personalization**: Adapt models to individual movement patterns
 - **Energy optimization**: Reduce battery consumption during inference
 
+--8<-- "work-with-me-cta.md"
+
 --8<-- "linkedin-cta.md"

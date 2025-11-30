@@ -211,4 +211,6 @@ Potential improvements for motion activity classification:
 - **Temporal modeling**: LSTM networks for sequence prediction
 - **Confidence scoring**: Reliability metrics for each prediction
 
+--8<-- "work-with-me-cta.md"
+
 --8<-- "linkedin-cta.md"

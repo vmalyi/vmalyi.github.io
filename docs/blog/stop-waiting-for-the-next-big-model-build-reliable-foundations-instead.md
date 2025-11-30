@@ -18,11 +18,7 @@ tags:
     **Prefer watching over reading?**
     **[Watch on YouTube](https://www.youtube.com/watch?v=TWLdbo82XRg)**
 
-!!! info "The Anti-Hype AI Strategy Series"
-    This is Part 1 of a 5-part series helping executives build reliable AI foundations while competitors chase the latest model releases. I'll cover why vendor priorities don't match your needs, the hidden costs of waiting, and the foundations that actually deliver results.
-
-
-What caused me to write this series is the discussion I was part of where the CTO was saying: "Our AI pilots aren't delivering the ROI we expected. But GPT-5 is around the corner. That'll solve our workflow failures, right?" 
+What caused me to write this article is the discussion I was part of where the CTO was saying: "Our AI pilots aren't delivering the ROI we expected. But GPT-5 is around the corner. That'll solve our workflow failures, right?" 
 
 Wrong. Dead wrong.
 
@@ -119,6 +115,6 @@ Your competitive advantage isn't access to better models. It's building systems 
 
 **Build your AI systems on foundations that last. Not new overhyped models**
 
-PS: Stay tuned for next articles in this series helping you to navigate AI adoption in a pragmatic way.
+--8<-- "work-with-me-cta.md"
 
 --8<-- "linkedin-cta.md"

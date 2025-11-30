@@ -26,8 +26,33 @@ I focus on real-world experience over theoretical concepts, sharing lessons lear
 
 From my consulting work, I estimate that 70% of teams building AI systems have zero systematic testing in place during early development. Not because they don't value evals, but because they're stuck choosing between frameworks. Here's the practical 50-datapoint approach that works.
 
-**[Stop Waiting for the Next Big Model. Build Reliable Foundations Instead.](stop-waiting-for-the-next-big-model-build-reliable-foundations-instead.md)** - August 24, 2025  
-*AI Strategy, AI Leadership, Enterprise AI, Model-Agnostic, Anti-Hype* | **Part 1 of The Anti-Hype AI Strategy Series**
+**[From Zero to Production-Ready AI in 6 Months: The Build-Buy-Boost Decision Framework](ai-strategy-part-5-build-buy-boost-framework.md)** - November 19, 2025
+*AI Strategy, Enterprise AI, AI Implementation, Practical AI, AI Framework* | **Part 5 of AI Strategy in a Six-Month World**
+
+Roughly 60% of internal AI tool development projects get abandoned before reaching production. Not because the tech doesn't work, but because teams spend months building something that already exists for $50/month. Here's the complete 7-step AI strategy framework.
+
+**[AI-Native Teams: A Practical Playbook for Engineering Leaders](ai-strategy-part-4-talent-transformation.md)** - November 12, 2025
+*AI Strategy, Engineering Leadership, Talent Development, AI Adoption, Practical AI* | **Part 4 of AI Strategy in a Six-Month World**
+
+80% of your people want to use AI at work. But only 12% received any kind of formal training in 2024. While executives talk about building AI-native organizations, most haven't figured out what that actually means. Here's the talent transformation approach that works.
+
+**[The Only Way to Prove Your AI Investment Is Worth It: A Practical Evaluation Playbook](ai-strategy-part-3-observability-evaluations.md)** - November 5, 2025
+*AI Strategy, AI Evals, Production AI, AI Observability, Practical AI* | **Part 3 of AI Strategy in a Six-Month World**
+
+When I ask AI teams how confident they are about their system's output quality, the room goes quiet. In roughly 70% of my consulting conversations, leaders can't answer that question with any certainty. Here's the practical framework to build evaluations that give you measurable confidence.
+
+**[Stop Hiring: Get 3x Output From Your Current Dev Team With AI Assistants](ai-strategy-part-2-ai-coding-assistants.md)** - October 29, 2025
+*AI Strategy, Developer Productivity, AI Tools, Engineering Leadership, Practical AI* | **Part 2 of AI Strategy in a Six-Month World**
+
+From my consulting work, I estimate that 70% of engineering teams using AI coding assistants are leaving 2-4x productivity gains on the table. They've installed the tools but treat AI like fancy autocomplete. Here's what separates teams getting marginal gains from those achieving genuine multiplication of output.
+
+**[Why Your 3-Year AI Roadmap Becomes Obsolete in 6 Months (And What to Do Instead)](ai-strategy-part-1-why-3-year-roadmap-obsolete.md)** - October 22, 2025
+*AI Strategy, Enterprise AI, AI Leadership, Practical AI, Anti-Hype* | **Part 1 of AI Strategy in a Six-Month World**
+
+One client recently scrapped a 2.4 million euro AI roadmap finalized just eight months earlier because the assumptions had already expired. That's not poor planning, but a signal that the old planning model itself is broken. Here's the framework I use to plan AI initiatives in this environment.
+
+**[Stop Waiting for the Next Big Model. Build Reliable Foundations Instead.](stop-waiting-for-the-next-big-model-build-reliable-foundations-instead.md)** - August 24, 2025
+*AI Strategy, AI Leadership, Enterprise AI, Model-Agnostic, Anti-Hype*
 
 Companies literally waited 1.5 years for GPT-5 to fix their fragile AI workflows instead of building proper foundations. While your competitors bet their AI strategy on the next model release, you could be building model-agnostic systems that deliver consistent quality regardless of what vendors announce next.
 

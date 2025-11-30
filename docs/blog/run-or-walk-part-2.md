@@ -179,4 +179,6 @@ Follow me and stay tuned to know what machine learning techniques I applied to t
 - https://docs-assets.developer.apple.com/published/96e9d46b41/c9b606b2-9a52-487e-8385-e710ffa1ce5f.png
 - Videezy.com
 
+--8<-- "work-with-me-cta.md"
+
 --8<-- "linkedin-cta.md"

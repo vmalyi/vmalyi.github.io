@@ -78,4 +78,6 @@ This knowledge is what you need before you can build automated evals. You can't 
 
 Create a spreadsheet with three columns: input and expected behavior (you can even skip this one because it's already in your reviewer's head). Add 20 happy path examples, 20 negative examples, and 10 edge cases. Run them through your system and review the results. The whole process should take less than two hours, and you'll have more eval coverage than most teams achieve in months of eval framework debates.
 
+--8<-- "work-with-me-cta.md"
+
 --8<-- "linkedin-cta.md"
