@@ -87,6 +87,17 @@ The blog automatically generates RSS feeds for content syndication:
 
 Feeds include all blog posts with full content, updated automatically on each deployment.
 
+## 📊 Analytics
+
+**PostHog** (EU Cloud, cookieless) - No GDPR consent banner required.
+
+Tracked events:
+- `consulting_site_clicked` - Links to practical-ai-leadership.com
+- `social_clicked` - LinkedIn, YouTube, Twitter clicks
+- `external_reference_clicked` - Blog source/citation clicks
+
+Config: `docs/assets/javascripts/posthog.js`
+
 ## 📊 Performance
 
 - Fast static site generation
