@@ -34,3 +34,8 @@ header button[title*="Toggle layout"] {
 .typography h2 {
   margin-top: calc(var(--spacing) * 12) !important;
 }
+
+/* Fix article title word-wrap to break at word boundaries, not mid-word */
+#page-header h1 {
+  word-break: normal !important;
+}
