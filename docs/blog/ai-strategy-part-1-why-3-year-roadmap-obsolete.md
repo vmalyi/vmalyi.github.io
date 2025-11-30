@@ -21,7 +21,9 @@ tags:
 !!! info "AI Strategy in a Six-Month World Series"
     This is **Part 1 of 5** in the "AI Strategy in a Six-Month World" series, covering why multi-year AI planning is dead and what patterns successful companies follow instead.
 
-In conversations with over a dozen executives during the last few months, I've heard the same thing repeated over and over again: planning AI initiatives beyond six months is a waste of time. And these aren't just tech companies. Traditional manufacturing, retail, financial services... all of them. One client recently scrapped a 2.4 million euro AI roadmap they'd finalized just eight months earlier because the assumptions it was built on had already expired. And that's not poor planning, but a signal that the old planning model itself is broken.
+In conversations with over a dozen executives during the last few months, I've heard the same thing repeated over and over again: planning AI initiatives beyond six months is a waste of time. And these aren't just tech companies. Traditional manufacturing, retail, financial services... all of them. 
+
+One client recently scrapped a 2.4 million euro AI roadmap they'd finalized just eight months earlier because the assumptions it was built on had already expired. And that's not poor planning, but a signal that the old planning model itself is broken.
 
 In this article, I'll break down why the traditional multi-year AI strategy no longer works, what's actually happening on the ground in European companies, and the specific framework I use with clients to plan AI initiatives in this environment. After leading AI implementations and conducting strategy audits in EdTech and e-commerce, I've identified patterns that separate organizations making real progress from those stuck in constant "pilot mode."
 
@@ -85,7 +87,9 @@ Each of these bets deserves deeper treatment, which I'll cover in subsequent art
 
 ## What You Can Do Already Tomorrow
 
-Pull up your current AI roadmap or strategy document. Find every assumption that depends on specific model capabilities, pricing, or competitive positioning. Mark the date each assumption was last validated. Anything older than 90 days deserves a fresh look. Anything older than six months should be treated as potentially invalid until proven otherwise. This audit takes maybe two hours, and it'll show you exactly how much of your current plan is built on expired information.
+Pull up your current AI roadmap or strategy document. Find every assumption that depends on specific model capabilities, pricing, or competitive positioning. Mark the date each assumption was last validated. Anything older than 90 days deserves a fresh look. Anything older than six months should be treated as potentially invalid until proven otherwise. 
+
+This audit takes maybe two hours, and it'll show you exactly how much of your current plan is built on expired information.
 
 ## Series Navigation
 

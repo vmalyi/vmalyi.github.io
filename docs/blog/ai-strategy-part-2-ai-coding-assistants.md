@@ -25,7 +25,9 @@ tags:
 
     - [Part 1: Why Your 3-Year AI Roadmap Becomes Obsolete in 6 Months](ai-strategy-part-1-why-3-year-roadmap-obsolete.md)
 
-From my consulting work, I estimate that 70% of engineering teams using AI coding assistants are leaving 2-4x productivity gains on the table. They've installed the tools, maybe even paid for premium seats, but they're treating AI like fancy autocomplete. The result? They're still hiring at the same pace, still missing deadlines, and watching smaller competitors ship faster with half the headcount.
+From my consulting work, I estimate that 70% of engineering teams using AI coding assistants are leaving 2-4x productivity gains on the table. They've installed the tools, maybe even paid for premium seats, but they're treating AI like fancy autocomplete. 
+
+The result? They're still hiring at the same pace, still missing deadlines, and watching smaller competitors ship faster with half the headcount.
 
 ## What You'll Learn
 
@@ -89,7 +91,9 @@ Without this step, you've just given everyone expensive tools without capturing 
 
 ## Your Next Step
 
-This week, identify one well-defined, repetitive task your team handles regularly. Pick something low-risk: test generation, documentation updates, or refactoring a non-critical module. Find the engineer on your team who's already curious about AI tools and give them explicit permission to spend 20% of their time for the next two weeks attacking that task with AI assistance. Have them document what works, what doesn't, and what surprised them. That documentation becomes your starting point for broader rollout.
+This week, identify one well-defined, repetitive task your team handles regularly. Pick something low-risk: test generation, documentation updates, or refactoring a non-critical module. 
+
+Find the engineer on your team who's already curious about AI tools and give them explicit permission to spend 20% of their time for the next two weeks attacking that task with AI assistance. Have them document what works, what doesn't, and what surprised them. That documentation becomes your starting point for broader rollout.
 
 ## Series Navigation
 

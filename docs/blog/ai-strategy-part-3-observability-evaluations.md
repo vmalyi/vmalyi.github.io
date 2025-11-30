@@ -28,11 +28,15 @@ tags:
 
 ## The Confidence Problem
 
-When I ask AI teams how confident they are about their system's output quality, the room goes quiet. In roughly 70% of my consulting conversations, leaders can't answer that question with any certainty. They've built something, deployed it, and now they're hoping it works. This reminds me of the early days of my career 16 years ago when automated web testing started gaining traction. Some companies grabbed it and got a real competitive edge. Others ignored it and paid for that choice in production bugs and customer complaints. The same split is happening right now with AI evaluations.
+When I ask AI teams how confident they are about their system's output quality, the room goes quiet. In roughly 70% of my consulting conversations, leaders can't answer that question with any certainty. They've built something, deployed it, and now they're hoping it works. 
+
+This reminds me of the early days of my career 16 years ago when automated web testing started gaining traction. Some companies grabbed it and got a real competitive edge. Others ignored it and paid for that choice in production bugs and customer complaints. The same split is happening right now with AI evaluations.
 
 ## What You'll Learn
 
-In this article, I'll show you how to build an evaluation system that gives you measurable confidence in your AI outputs. You'll learn why most teams overcomplicate this, what the minimum viable evaluation setup looks like, and how to prove ROI on your AI investments to stakeholders who keep asking "is this actually working?". In projects costing 200K euro or more, I've helped clients in E-commerce and Health reduce output quality incidents by 40-60% within the first quarter of implementing proper evaluation pipelines. And by the way, if you're operating in the EU, this isn't optional anymore. The AI Act requires that your systems be auditable and their behavior understandable by default.
+In this article, I'll show you how to build an evaluation system that gives you measurable confidence in your AI outputs. You'll learn why most teams overcomplicate this, what the minimum viable evaluation setup looks like, and how to prove ROI on your AI investments to stakeholders who keep asking "is this actually working?". 
+
+In projects costing 200K euro or more, I've helped clients in E-commerce and Health reduce output quality incidents by 40-60% within the first quarter of implementing proper evaluation pipelines. And by the way, if you're operating in the EU, this isn't optional anymore. The AI Act requires that your systems be auditable and their behavior understandable by default.
 
 ## Why Evaluations Are Your Only Real Safety Net
 
