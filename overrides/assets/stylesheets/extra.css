@@ -29,3 +29,8 @@ header button[title*="Toggle layout"] {
 .xl\:flex.w-72 {
   display: none !important;
 }
+
+/* Reduce h2 heading margin-top from 80px to 48px */
+.typography h2 {
+  margin-top: calc(var(--spacing) * 12) !important;
+}
