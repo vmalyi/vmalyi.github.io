@@ -13,7 +13,7 @@ With 8 years in machine learning and 3 years leading AI platform teams, I work a
 
 ## Career Journey
 
-### Fractional Head of AI (2026-Present)
+### Fractional Head of AI (2025-Present)
 **Independent**
 
 I step into companies as Head of AI, owning strategy, architecture, team enablement, and governance until the team can sustain it independently. From a focused assessment to embedded leadership, I help companies build AI capability, not just buy AI tools.
