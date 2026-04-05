@@ -1,6 +1,6 @@
 ---
 title: "Viktor Malyi - Fractional Head of AI"
-description: "Fractional Head of AI for DACH companies. 8 years in machine learning, 5 production AI systems, 3 years leading AI platform teams. Strategy, architecture, team enablement, governance."
+description: "Fractional Head of AI for DACH companies. 8 years in ML, 5 production AI systems. Strategy, architecture, team enablement, governance."
 keywords: "fractional head of ai, interim head of ai, ai leadership, ai strategy, ai team enablement, ai governance, ai platform architecture, ai adoption, production ai systems"
 author: "Viktor Malyi"
 image: "https://vmalyi.com/assets/photo_crop.jpg"
@@ -11,7 +11,7 @@ twitter_site: "@victormalyy"
 # Viktor Malyi – Fractional Head of AI
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap; justify-content: center; text-align: center;">
-  <img src="assets/photo_crop.jpg" alt="Viktor Malyi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <img src="assets/photo_crop.webp" alt="Viktor Malyi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
   <div>
     <p style="font-size: 1.1em; margin: 0;">8 years in machine learning, 3 years leading AI platform teams, 5 production AI systems. I work as Fractional Head of AI for companies that invested in AI but have no one owning the outcome.</p>
   </div>
