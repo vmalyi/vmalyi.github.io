@@ -63,14 +63,6 @@ Organized meetups and first software testing conference in Dnipropetrovsk.
 Solo test engineer for insurance domain web applications. Formalized testing activities company-wide.
 
 
-## Technical Leadership Experience
-
-**AI Platform Development**: Building production AI systems, GDPR-compliant architectures, and AI development standards  
-**Team Leadership**: Building technical teams from scratch, establishing hiring processes, and mentoring engineers  
-**Mobile Architecture**: Leading mobile development for platforms serving millions of users with quality and reliability focus
-**Quality Engineering**: 16 years of experience in testing, automation, and building reliable software systems
-**Cross-Industry Experience**: Healthcare compliance, EdTech platforms, consumer electronics, and automotive systems
-
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://practical-ai-leadership.com/en/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
 </div>
