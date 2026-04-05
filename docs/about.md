@@ -1,7 +1,7 @@
 ---
-title: "About Viktor Malyi | AI Strategy & Engineering Consultant"
-description: "Viktor Malyi's professional background: 16 years in tech, 8 years in AI/ML, AI Strategy & Engineering Consultant helping companies ship AI initiatives. Former Apple WWDC featured developer, technical speaker, and AI implementation expert."
-keywords: "viktor malyi, ai platform leader, technical speaker, production ai, ai team leadership, apple wwdc, ai engineering"
+title: "About Viktor Malyi | Fractional Head of AI"
+description: "Viktor Malyi's professional background: 8 years in machine learning, 3 years leading AI platform teams, Fractional Head of AI for DACH companies. Former Apple WWDC featured developer, technical speaker, and AI implementation expert."
+keywords: "viktor malyi, fractional head of ai, interim head of ai, ai platform leader, technical speaker, production ai, ai team leadership, apple wwdc, ai engineering"
 author: "Viktor Malyi"
 ---
 
@@ -9,17 +9,17 @@ author: "Viktor Malyi"
 
 ## Professional Background
 
-With 16 years in technology and 8 years in AI/ML, I help companies build, scale, and reliably ship AI initiatives as an independent AI Strategy & Engineering Consultant. Alongside consulting, I lead the AI Platform team at simpleclub, where I focus on building production AI systems and helping technical teams adopt AI tools and practices effectively.
+With 8 years in machine learning and 3 years leading AI platform teams, I work as Fractional Head of AI for companies that invested in AI but have no one owning the outcome. I built the AI platform team at Europe's biggest EdTech scaleup from scratch: 5 production AI systems, evaluation and monitoring pipelines, autonomous AI agents, org-wide AI enablement. Now I do that for companies that can't wait 12 months to hire.
 
 ## Career Journey
 
-### AI Strategy & Engineering Consulting (October 2025-Present)
-**Independent Consultant**
+### Fractional Head of AI (2026-Present)
+**Independent**
 
-Help companies build, scale, and reliably ship AI initiatives. Bridge the gap from R&D to production through fixed-outcome investments: AI roadmap diagnostics, thin-slice production sprints, and embedded leadership engagements. Co-build with client teams to ensure full knowledge transfer and autonomous capability.
+I step into companies as Head of AI, owning strategy, architecture, team enablement, and governance until the team can sustain it independently. From a focused assessment to embedded leadership, I help companies build AI capability, not just buy AI tools.
 
 ### AI Platform Leadership (2024-Present)
-**Team Leader AI Platform - simpleclub**
+**Team Leader AI Platform - Europe's biggest EdTech scaleup**
 
 **AI Platform Development**: Built the AI Platform team from scratch and established AI development practices for the organization. Led development of 5 production AI systems that generate measurable business impact. Created GDPR-compliant AI frameworks and helped drive AI adoption across engineering teams in 3 departments.
 
@@ -72,5 +72,5 @@ Solo test engineer for insurance domain web applications. Formalized testing act
 **Cross-Industry Experience**: Healthcare compliance, EdTech platforms, consumer electronics, and automotive systems
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://practical-ai-leadership.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
+  <a href="https://practical-ai-leadership.com/en/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
 </div>

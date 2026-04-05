@@ -30,7 +30,7 @@ tags:
 
 In Parts 1-4, I covered the current AI reality and the three foundational bets: AI coding assistants, evaluations, and talent transformation. Now it's time to tie it all together with platform decisions and the complete framework.
 
-From my consulting work when doing audits, I see roughly 60% of internal AI tool development projects get abandoned before reaching production. Not because the tech doesn't work, but because teams spend months building something that already exists on the market for $50/month.
+From my consulting work, I see roughly 60% of internal AI tool development projects get abandoned before reaching production. Not because the tech doesn't work, but because teams spend months building something that already exists on the market for $50/month.
 
 ## What You'll Learn
 

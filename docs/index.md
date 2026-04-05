@@ -1,24 +1,24 @@
 ---
-title: "Viktor Malyi - Practical AI Leadership"
-description: "Practical insights on building production AI systems from 16 years in tech and 8 years in AI/ML. AI Strategy & Engineering Consultant helping companies ship AI initiatives. Learn from real-world experience deploying 5 production AI systems and driving organizational AI adoption."
-keywords: "ai platform development, production ai systems, ai team leadership, mlops, ai engineering, ai implementation, practical ai, ai platform architecture, ai adoption, gdpr ai compliance"
+title: "Viktor Malyi - Fractional Head of AI"
+description: "Fractional Head of AI for DACH companies. 8 years in machine learning, 5 production AI systems, 3 years leading AI platform teams. Strategy, architecture, team enablement, governance."
+keywords: "fractional head of ai, interim head of ai, ai leadership, ai strategy, ai team enablement, ai governance, ai platform architecture, ai adoption, production ai systems"
 author: "Viktor Malyi"
 image: "https://vmalyi.com/assets/photo_crop.jpg"
 twitter_card: "summary_large_image"
 twitter_site: "@victormalyy"
 ---
 
-# Viktor Malyi – Practical AI Leadership
+# Viktor Malyi – Fractional Head of AI
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap; justify-content: center; text-align: center;">
   <img src="assets/photo_crop.jpg" alt="Viktor Malyi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
   <div>
-    <p style="font-size: 1.1em; margin: 0;">16 years in tech, with 8 years total in AI/ML and the last 3 years leading AI initiatives. I share practical insights from building production AI systems and leading technical teams through AI adoption challenges.</p>
+    <p style="font-size: 1.1em; margin: 0;">8 years in machine learning, 3 years leading AI platform teams, 5 production AI systems. I work as Fractional Head of AI for companies that invested in AI but have no one owning the outcome.</p>
   </div>
 </div>
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://practical-ai-leadership.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
+  <a href="https://practical-ai-leadership.com/en/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
 </div>
 
 ## What You'll Find Here
@@ -58,5 +58,5 @@ Stay updated with the latest insights on practical AI implementation:
 - **Twitter**: [@victormalyy](https://twitter.com/victormalyy) - Quick takes and industry observations
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://practical-ai-leadership.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
+  <a href="https://practical-ai-leadership.com/en/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 2rem; background-color: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 1.1em; transition: background-color 0.2s;">Work with Me →</a>
 </div>

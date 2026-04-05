@@ -1,22 +1,22 @@
 ---
-title: "Consulting - AI Strategy & Engineering | Viktor Malyi"
-description: "AI Strategy & Engineering Consulting services. Help companies build, scale, and reliably ship AI initiatives through fixed-outcome investments."
+title: "Fractional Head of AI | Viktor Malyi"
+description: "Fractional Head of AI for DACH companies: strategy, architecture, team enablement, governance. For companies that invested in AI but have no one in the seat to make it deliver."
 ---
 
 <script>
-window.location.replace("https://practical-ai-leadership.com");
+window.location.replace("https://practical-ai-leadership.com/en/");
 </script>
 
 # Redirecting to Consulting Services...
 
-If you are not redirected automatically, please [click here to visit practical-ai-leadership.com](https://practical-ai-leadership.com).
+If you are not redirected automatically, please [click here to visit practical-ai-leadership.com](https://practical-ai-leadership.com/en/).
 
-## AI Strategy & Engineering Consulting
+## Fractional Head of AI
 
-I help companies build, scale, and reliably ship AI initiatives through:
+I step into companies as Head of AI, owning strategy, architecture, team enablement, and governance until the team can sustain it independently.
 
-- **AI Roadmap & Architecture Diagnostics**
-- **Thin-Slice Production Sprints**
-- **Embedded AI Leadership**
+- **Get Clarity** — Focused assessment sprint
+- **Build Capability** — Embedded AI leadership for one team
+- **Stay Sharp** — Scaled across the entire org, plus transition support
 
-[Visit Consulting Website →](https://practical-ai-leadership.com)
+[Visit Consulting Website →](https://practical-ai-leadership.com/en/)
